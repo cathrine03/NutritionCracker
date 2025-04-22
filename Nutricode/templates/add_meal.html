@@ -1,0 +1,65 @@
+
+{% extends 'base.html' %}
+{% load static %}
+{% block title %}Log Meal{% endblock %}
+
+{% block content %}
+<style>
+  body.log-meal-page {
+    background-image: url("{% static 'images/meal-log-bg.png' %}");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    position: relative;
+  }
+
+  .overlay {
+    position: fixed;
+    top: 0; left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* dim effect */
+    z-index: -1;
+  }
+
+  .form-card {
+    background: rgba(255, 255, 255, 0.9);
+    padding: 2rem;
+    border-radius: 12px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+    margin-top: 50px;
+  }
+</style>
+
+<body class="log-meal-page">
+  <div class="overlay"></div>
+
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-md-6 form-card">
+        <h2 class="mb-4 text-center">🍽️ Log a Meal 🍽️
+        </h2>
+        <form method="POST">
+          {% csrf_token %}
+          <div class="mb-3">
+            <label for="food" class="form-label">Select Food Item</label>
+            <select name="food" id="food" class="form-select" required>
+              {% for food in foods %}
+                <option value="{{ food.id }}">{{ food.name }} ({{ food.calories }} kcal/100g)</option>
+              {% endfor %}
+            </select>
+          </div>
+          <div class="mb-3">
+            <label for="quantity" class="form-label">Quantity (in grams)</label>
+            <input type="number" step="1" name="quantity" id="quantity" class="form-control" required>
+          </div>
+          <div class="text-center">
+            <button type="submit" class="btn btn-success px-4">Add Meal</button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</body>
+{% endblock %}

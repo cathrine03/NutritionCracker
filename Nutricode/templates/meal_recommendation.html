@@ -1,0 +1,53 @@
+{% extends 'base.html' %}
+
+{% block title %}Meal Recommendations | Nutrition Cracker{% endblock %}
+
+{% block content %}
+<div class="container">
+    <h1 class="text-center mb-4">🥗 Meal Recommendations
+        <a href="{% url 'dashboard' %}" class="btn btn-sm btn-outline-secondary float-end">
+        🏠 Dashboard
+    </a>
+    </h1>
+
+    <!-- Meal Filter Dropdown -->
+    <div class="row justify-content-center mb-4">
+        <div class="col-md-6">
+            <div class="form-group">
+                <label for="dietType" class="h5">Select your diet preference:</label>
+                <form method="GET" action="{% url 'meal_recommendation_view' %}">
+                    <select id="dietType" class="form-select" name="diet_type">
+                        <option value="">-- Choose a Diet Type --</option>
+                        <option value="Vegetarian" {% if request.GET.diet_type == 'Vegetarian' %}selected{% endif %}>Vegetarian</option>
+                        <option value="Non-Vegetarian" {% if request.GET.diet_type == 'Non Vegetarian' %}selected{% endif %}>Non-Vegetarian</option>
+                        <option value="Vegan" {% if request.GET.diet_type == 'Vegan' %}selected{% endif %}>Vegan</option>
+                        <option value="Eggetarian" {% if request.GET.diet_type == 'Eggetarian' %}selected{% endif %}>Eggetarian</option>
+                    </select>
+                    <button type="submit" class="btn btn-primary mt-2">Get Meal Suggestions</button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <!-- Displaying Meal Recommendations -->
+    {% if meal_recommendations %}
+        <div id="mealRecommendations" class="row justify-content-center">
+            {% for recommendation in meal_recommendations %}
+                <div class="col-md-4 mb-4 meal-item" data-diet-type="{{ recommendation.diet_type }}">
+                    <div class="card shadow-sm">
+                        <div class="card-body">
+                            <h5 class="card-title">{{ recommendation.name }}</h5>
+                            <p class="card-text">Calories: {{ recommendation.calories }} kcal</p>
+                            <p class="card-text">Protein: {{ recommendation.protein }} g</p>
+                            <p class="card-text">Fat: {{ recommendation.fat }} g</p>
+                            <p class="card-text">Carbs: {{ recommendation.carbohydrates }} g</p>
+                        </div>
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+    {% else %}
+        <p class="text-center">No meal available for this diet type. Please select another diet type.</p>
+    {% endif %}
+</div>
+{% endblock %}

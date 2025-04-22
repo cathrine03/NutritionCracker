@@ -1,0 +1,48 @@
+{% extends 'base.html' %}
+{% block content %}
+<div class="report-container">
+    <h2>Your Weekly Progress</h2>
+
+    <section class="stats-section">
+        <h3>Nutrition Summary (Last 7 Days)</h3>
+        <table>
+            <thead>
+                <tr>
+                    <th>Date</th>
+                    <th>Calories</th>
+                    <th>Proteins (g)</th>
+                    <th>Fats (g)</th>
+                    <th>Carbs (g)</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for entry in nutrition_summary %}
+                    <tr>
+                        <td>{{ entry.date }}</td>
+                        <td>{{ entry.calories }}</td>
+                        <td>{{ entry.proteins }}</td>
+                        <td>{{ entry.fats }}</td>
+                        <td>{{ entry.carbohydrates }}</td>
+                    </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </section>
+
+    <section class="stats-section">
+        <h3>Water Intake (Last 7 Days)</h3>
+        <ul>
+            {% for day in water_summary %}
+                <li>{{ day.date }} — {{ day.total }} ml</li>
+            {% endfor %}
+        </ul>
+    </section>
+
+    <section class="stats-section">
+        <h3>Goal Comparison</h3>
+        <p>Calorie Goal: {{ user_goal.calorie_goal }} kcal/day</p>
+        <p>Water Goal: {{ user_goal.water_goal }} ml/day</p>
+        <p>Protein Goal: {{ user_goal.protein_goal }} g/day</p>
+    </section>
+</div>
+{% endblock %}

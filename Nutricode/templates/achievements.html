@@ -1,0 +1,31 @@
+{% extends 'base.html' %}
+{% block title %}Achievements | Nutricode{% endblock %}
+
+{% block content %}
+<div class="container mt-5">
+    <h2 class="text-center mb-4">🏆 Your Achievements
+        <a href="{% url 'dashboard' %}" class="btn btn-sm btn-outline-secondary float-end">
+            🏠 Dashboard
+        </a>
+        
+    </h2>
+
+    {% if achievements %}
+        <div class="row">
+            {% for achievement in achievements %}
+                <div class="col-md-4 mb-4">
+                    <div class="card h-100 shadow-sm border-success">
+                        <div class="card-body">
+                            <h5 class="card-title text-success">{{ achievement.title }}</h5>
+                            <p class="card-text">{{ achievement.description }}</p>
+                            <p class="text-muted"><small>Unlocked on {{ achievement.date_awarded|date:"F j, Y" }}</small></p>
+                        </div>
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+    {% else %}
+        <p class="text-center">You haven't unlocked any achievements yet. Start logging meals and drinking water to begin!</p>
+    {% endif %}
+</div>
+{% endblock %}

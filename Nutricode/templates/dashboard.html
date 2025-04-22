@@ -1,0 +1,158 @@
+{% extends 'base.html' %}
+
+{% block title %}Dashboard | Nutrition Cracker{% endblock %}
+
+{% block content %}
+<div class="text-center my-4">
+  <h1>Welcome back, {{ user.first_name|default:user.username }}! 🥦</h1>
+  <p class="lead">Here’s your health snapshot for today:</p>
+</div>
+
+<div class="container">
+  <!-- Today's Stats -->
+  <div class="row text-center mb-5">
+    <div class="col-md-4 mb-3">
+      <div class="card bg-success-subtle shadow-sm">
+        <div class="card-body">
+          <h5 class="card-title">🔥 Calories</h5>
+          <p class="card-text fs-4">{{ total_calories|default:"0"|floatformat:2 }} kcal</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-md-4 mb-3">
+      <div class="card bg-warning-subtle shadow-sm">
+        <div class="card-body">
+          <h5 class="card-title">🍗 Proteins</h5>
+          <p class="card-text fs-4">{{ total_protein|default:"0"|floatformat:2  }} g</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-md-4 mb-3">
+      <div class="card bg-danger-subtle shadow-sm">
+        <div class="card-body">
+          <h5 class="card-title">🥑 Fats</h5>
+          <p class="card-text fs-4">{{ total_fat|default:"0"|floatformat:2  }} g</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-md-4 mb-3">
+      <div class="card bg-info-subtle shadow-sm">
+        <div class="card-body">
+          <h5 class="card-title">🍞 Carbs</h5>
+          <p class="card-text fs-4">{{ total_carbohydrates|default:"0"|floatformat:2  }} g</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-md-4 mb-3">
+      <div class="card bg-primary-subtle shadow-sm">
+        <div class="card-body">
+          <h5 class="card-title">💧 Water</h5>
+          <p class="card-text fs-4">{{ total_water|default:"0" }} ml</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-md-4 mb-3">
+      <div class="card bg-warning-subtle shadow-sm">
+        <div class="card-body">
+          <h5 class="card-title">💡 Tip of the Day</h5>
+          <p class="card-text">{{ tip_of_the_day|default:"Stay hydrated and eat your greens!" }}</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  
+  <!-- Smart Features Section -->
+  <div class="row justify-content-center text-center my-5">
+    <!-- Meal Recommendation -->
+    <div class="card text-center shadow-sm mb-4">
+      <div class="card-body">
+          <h5 class="card-title">🥗Need Help Deciding?</h5>
+          <p class="card-text">Get personalized meal recommendations based on your diet type.</p>
+          <a href="{% url 'meal_recommendation_view' %}" class="btn btn-success">Get Recommendations</a>
+      </div>
+  </div>
+
+    
+  <!-- Quick Actions -->
+  <div class="row text-center mt-4">
+    <div class="col-md-4 mb-1">
+      <div class="card shadow-sm h-100">
+        <div class="card-body">
+          <h5 class="card-title">🍽️ Log Your Meals</h5>
+          <p class="card-text">Add what you’ve eaten and track your nutrition.</p>
+          <a href="{% url 'add_meal' %}" class="btn btn-primary">Log Meal</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-md-4 mb-1">
+      <div class="card shadow-sm h-100">
+        <div class="card-body">
+          <h5 class="card-title">💧 Water Intake</h5>
+          <p class="card-text">Log your hydration progress.</p>
+          <a href="{% url 'add_water' %}" class="btn btn-primary">Log Water</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-md-4 mb-1">
+      <div class="card shadow-sm h-100">
+        <div class="card-body">
+          <h5 class="card-title">🎯 Set Your Goals</h5>
+          <p class="card-text">Customize your nutrition targets.</p>
+          <a href="{% url 'goals' %}" class="btn btn-primary">View Goals</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="container">
+  <div class="row justify-content-center">
+    <div class="col-md-4 mb-5">
+      <div class="card shadow-sm h-100">
+        <div class="card-body text-center">
+          <h5 class="card-title">🏆 Achievements</h5>
+          <p class="card-text">View your progress and achievements!.</p>
+          <a href="{% url 'achievements' %}" class="btn btn-primary">View Achievements</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+ 
+
+ <div class="row justify-content-center">
+  <!-- Daily Report Box -->
+  <div class="col-md-4 mb-4">
+      <a href="{% url 'daily_report' %}" class="card text-decoration-none">
+          <div class="card-body text-center p-5" style="background-color: #f8f9fa; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+              <h3 class="card-title">🗓️Daily Report</h3>
+              <p class="card-text">View your daily meal reports</p>
+          </div>
+      </a>
+  </div>
+
+  <!-- Weekly Report Box -->
+  <div class="col-md-4 mb-4">
+      <a href="{% url 'weekly_report' %}" class="card text-decoration-none">
+          <div class="card-body text-center p-5" style="background-color: #f8f9fa; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+              <h3 class="card-title">🗓️Weekly Report</h3>
+              <p class="card-text">View your weekly meal reports</p>
+          </div>
+      </a>
+  </div>
+</div>
+</div>
+
+{% endblock %}
+

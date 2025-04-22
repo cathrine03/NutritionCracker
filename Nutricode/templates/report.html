@@ -1,0 +1,119 @@
+{% extends 'base.html' %}
+
+{% block title %}Meal Report | Nutrition Cracker{% endblock %}
+
+{% block content %}
+<div class="container">
+    <h1 class="text-center mb-4">🥗 Meal Report
+        <a href="{% url 'dashboard' %}" class="btn btn-sm btn-outline-secondary float-end">
+            🏠 Dashboard
+        </a>
+    </h1>
+
+    <!-- Meal Report Filters (if any) -->
+    <h2 class="text-center">Meal Report for {{ report_type }} ({{ today }})</h2>
+
+    <div id="meal-chart-container">
+        <canvas id="mealChart" width="400" height="200"></canvas>
+    </div>
+
+    <!-- Displaying Meal Data -->
+    {% if report_data %}
+        <h3 class="mt-4 text-center">📊 Meal Data:</h3>
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>Food Name</th>
+                    <th>Calories</th>
+                    <th>Protein</th>
+                    <th>Fat</th>
+                    <th>Carbs</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for item in report_data %}
+                    <tr>
+                        <td>{{ item.food.name }}</td>
+                        <td>{{ item.food.calories }}</td>
+                        <td>{{ item.food.protein }}</td>
+                        <td>{{ item.food.fat }}</td>
+                        <td>{{ item.food.carbohydrates }}</td>
+                    </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    {% else %}
+        <p>No meals found for this report.</p>
+    {% endif %}
+</div>
+
+<!-- Chart.js CDN -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<script>
+    // Prepare data for Chart.js
+    const labels = [
+        {% for item in report_data %}
+            "{{ item.food.name }}", 
+        {% endfor %}
+    ];
+
+    const caloriesData = [
+        {% for item in report_data %}
+            {{ item.food.calories }},
+        {% endfor %}
+    ];
+
+    const proteinData = [
+        {% for item in report_data %}
+            {{ item.food.protein }},
+        {% endfor %}
+    ];
+
+    const fatData = [
+        {% for item in report_data %}
+            {{ item.food.fat }},
+        {% endfor %}
+    ];
+
+    // Chart.js Configuration
+    const ctx = document.getElementById('mealChart').getContext('2d');
+    const mealChart = new Chart(ctx, {
+        type: 'bar',  // You can change the chart type here (e.g., line, bar)
+        data: {
+            labels: labels,
+            datasets: [
+                {
+                    label: 'Calories',
+                    data: caloriesData,
+                    backgroundColor: 'rgba(255, 99, 132, 0.2)',
+                    borderColor: 'rgba(255, 99, 132, 1)',
+                    borderWidth: 1
+                },
+                {
+                    label: 'Protein',
+                    data: proteinData,
+                    backgroundColor: 'rgba(54, 162, 235, 0.2)',
+                    borderColor: 'rgba(54, 162, 235, 1)',
+                    borderWidth: 1
+                },
+                {
+                    label: 'Fat',
+                    data: fatData,
+                    backgroundColor: 'rgba(255, 159, 64, 0.2)',
+                    borderColor: 'rgba(255, 159, 64, 1)',
+                    borderWidth: 1
+                }
+            ]
+        },
+        options: {
+            scales: {
+                y: {
+                    beginAtZero: true
+                }
+            }
+        }
+    });
+</script>
+
+{% endblock %}

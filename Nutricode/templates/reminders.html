@@ -1,0 +1,21 @@
+{% extends 'base.html' %}
+{% block content %}
+<div class="form-container">
+    <h2>Set Your Daily Reminders</h2>
+
+    <form method="POST">
+        {% csrf_token %}
+        <label for="meal_reminder">Meal Reminder Time</label>
+        <input type="time" name="meal_reminder" value="{{ reminder.meal_reminder }}">
+
+        <label for="water_reminder">Water Reminder Time</label>
+        <input type="time" name="water_reminder" value="{{ reminder.water_reminder }}">
+
+        <button type="submit">Save Reminders</button>
+    </form>
+
+    {% if saved %}
+        <p class="success">✅ Your reminders have been saved!</p>
+    {% endif %}
+</div>
+{% endblock %}

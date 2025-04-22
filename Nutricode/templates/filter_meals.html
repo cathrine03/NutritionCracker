@@ -1,0 +1,42 @@
+{% extends 'base.html' %}
+
+{% block content %}
+  <div class="container">
+    <h2 class="my-4">Select Your Diet Type for Meal Recommendations</h2>
+
+    <!-- Dropdown and Submit Button -->
+    <form method="POST">
+      {% csrf_token %}
+      <div class="mb-3">
+        <label for="diet_type" class="form-label">Choose Your Diet Type</label>
+        <select name="diet_type" class="form-select" aria-label="Diet Type">
+          <option value="vegetarian">Vegetarian</option>
+          <option value="non-vegetarian">Non-Vegetarian</option>
+          <option value="vegan">Vegan</option>
+          <option value="eggetarian">Eggetarian</option>
+        </select>
+      </div>
+      <button type="submit" class="btn btn-primary">Get Meal Recommendations</button>
+    </form>
+
+    {% if recommendations %}
+      <h3 class="mt-4">Recommended Meals for {{ selected_diet_type|title }}</h3>
+      <ul class="list-group mt-3">
+        {% for meal in recommendations %}
+          <li class="list-group-item">
+            <h5>{{ meal.name }}</h5>
+            <p>{{ meal.description }}</p>
+            <ul>
+              <li>Calories: {{ meal.calories }} kcal</li>
+              <li>Proteins: {{ meal.protein }} g</li>
+              <li>Carbohydrates: {{ meal.carbohydrates }} g</li>
+              <li>Fats: {{ meal.fat }} g</li>
+            </ul>
+          </li>
+        {% endfor %}
+      </ul>
+    {% else %}
+      <p class="mt-3">No recommendations available for the selected diet type.</p>
+    {% endif %}
+  </div>
+{% endblock %}

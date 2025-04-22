@@ -1,0 +1,47 @@
+{% extends 'base.html' %}
+
+{% block title %}Daily Report | Nutrition Cracker{% endblock %}
+
+{% block content %}
+<div class="container">
+    <h1 class="text-center mb-4">📅 Daily Report for {{ date }}
+        <a href="{% url 'dashboard' %}" class="btn btn-sm btn-outline-secondary float-end">
+            🏠 Dashboard
+        </a>
+        
+    </h1>
+
+    {% if meals_today %}
+        <div class="row">
+            <div class="col-md-12">
+                <h3>Meals Logged Today</h3>
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>Meal</th>
+                            <th>Calories</th>
+                            <th>Protein</th>
+                            <th>Fat</th>
+                            <th>Carbs</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for meal in meals_today %}
+                        <tr>
+                            <td>{{ meal.name }}</td>
+                            <td>{{ meal.calories|floatformat:2 }} kcal</td>
+                            <td>{{ meal.protein|floatformat:2 }} g</td>
+                            <td>{{ meal.fat|floatformat:2 }} g</td>
+                            <td>{{ meal.carbohydrates|floatformat:2 }} g</td>
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+                <h4>Total Calories for Today: {{ total_calories_today|floatformat:2 }} kcal</h4>
+            </div>
+        </div>
+    {% else %}
+        <p class="text-center">No meals logged for today.</p>
+    {% endif %}
+</div>
+{% endblock %}

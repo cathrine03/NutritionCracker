@@ -1,0 +1,51 @@
+{% extends 'base.html' %}
+
+{% block title %}Add Custom Goal{% endblock %}
+
+{% block content %}
+  <div class="container mt-5">
+    <h2>Add Custom Goal</h2>
+    <form method="POST">
+      {% csrf_token %}
+      <div class="mb-3">
+        <label for="goal_type" class="form-label">Goal Type</label>
+        <select name="goal_type" id="goal_type" class="form-select" required>
+          <option value="Muscle Gain">Muscle Gain</option>
+          <option value="Weight Loss">Weight Loss</option>
+          <option value="Bulk">Bulk</option>
+          <option value="Balanced">Balanced</option>
+          <option value="Keto">Keto</option>
+          <option value="Plant Based">Plant Based</option>
+          <option value="Other">Other</option>
+        </select>
+      </div>
+
+      <div class="mb-3">
+        <label for="calories_goal" class="form-label">Calories Goal</label>
+        <input type="number" name="calories_goal" id="calories_goal" class="form-control" required>
+      </div>
+      
+      <div class="mb-3">
+        <label for="protein_goal" class="form-label">Protein Goal (g)</label>
+        <input type="number" name="protein_goal" id="protein_goal" class="form-control" required>
+      </div>
+
+      <div class="mb-3">
+        <label for="fat_goal" class="form-label">Fat Goal (g)</label>
+        <input type="number" name="fat_goal" id="fat_goal" class="form-control" required>
+      </div>
+
+      <div class="mb-3">
+        <label for="carbs_goal" class="form-label">Carbs Goal (g)</label>
+        <input type="number" name="carbs_goal" id="carbs_goal" class="form-control" required>
+      </div>
+
+      <div class="mb-3">
+        <label for="water_goal" class="form-label">Water Goal (ml)</label>
+        <input type="number" name="water_goal" id="water_goal" class="form-control" required>
+      </div>
+
+      <button type="submit" class="btn btn-success">Save Goal</button>
+    </form>
+  </div>
+{% endblock %}

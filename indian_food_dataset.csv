@@ -1,0 +1,1001 @@
+name,calories,protein,fat,carbohydrates,diet_type,category,region,meal_time
+Rasam,566.1,17.0,31.5,75.3,vegan,breakfast,Pan India,afternoon
+Mutton Curry,285.8,10.3,5.9,29.3,eggetarian,breakfast,Pan India,night
+Veg Momos,273.5,23.0,14.7,14.3,vegan,breakfast,East India,evening
+Fish Curry,286.0,22.0,32.9,20.1,eggetarian,dessert,East India,afternoon
+Baingan Bharta,502.5,25.4,36.9,64.8,non-vegetarian,dinner,South India,morning
+Dosa,518.8,11.4,24.3,50.9,vegetarian,snack,East India,morning
+Pav Bhaji,402.3,3.2,36.6,30.3,vegan,dinner,Pan India,evening
+Aloo Tikki,196.7,4.4,9.8,25.4,eggetarian,dessert,East India,night
+Jalebi,578.4,23.8,34.0,68.1,eggetarian,lunch,West India,night
+Veg Momos,435.3,12.8,26.2,37.1,eggetarian,dessert,West India,morning
+Chicken 65,575.5,6.4,9.4,79.8,non-vegetarian,dessert,Pan India,evening
+Mutton Curry,465.7,15.1,3.6,76.1,non-vegetarian,dessert,East India,night
+Veg Momos,494.3,4.9,1.5,58.1,vegetarian,dessert,North India,evening
+Shrikhand,100.8,9.6,23.6,68.8,vegan,snack,West India,morning
+Masala Chai,191.8,28.2,21.9,48.2,vegetarian,dinner,North India,afternoon
+Samosa,231.7,12.5,8.0,24.2,vegan,dinner,North India,evening
+Kadhi,156.1,10.8,5.3,49.8,vegan,breakfast,East India,night
+Paneer Butter Masala,319.7,7.9,24.3,50.4,vegetarian,breakfast,North India,evening
+Curd Rice,336.2,17.4,5.1,76.7,eggetarian,lunch,South India,evening
+Kheer,224.2,19.2,39.4,40.2,vegetarian,snack,South India,morning
+Paneer Tikka,202.8,14.7,18.6,23.7,non-vegetarian,lunch,East India,night
+Tamarind Rice,454.7,15.2,23.6,58.2,eggetarian,lunch,North India,evening
+Idli,598.7,28.3,33.4,72.5,vegetarian,lunch,South India,morning
+Kadhi,132.5,15.0,30.6,74.7,vegetarian,snack,West India,night
+Rasam,182.0,13.6,6.9,37.0,vegan,dinner,North India,night
+Pakora,170.2,19.1,36.6,24.6,non-vegetarian,dinner,North India,morning
+Misal Pav,423.1,14.4,16.1,62.9,eggetarian,breakfast,East India,evening
+Lassi,230.8,13.3,16.2,79.3,eggetarian,snack,West India,morning
+Baingan Bharta,534.8,29.2,37.5,25.5,eggetarian,lunch,East India,morning
+Palak Paneer,333.1,24.0,28.7,40.7,eggetarian,snack,West India,night
+Jalebi,301.5,19.7,13.7,51.7,eggetarian,dessert,South India,night
+Mutton Curry,525.0,12.8,30.9,31.6,vegetarian,lunch,East India,evening
+Aloo Tikki,526.1,9.6,15.2,78.5,non-vegetarian,lunch,East India,evening
+Bhindi Masala,544.7,27.7,16.9,71.0,vegetarian,lunch,North India,afternoon
+Kheer,341.6,24.9,27.2,53.1,eggetarian,dessert,East India,evening
+Jalebi,553.3,29.2,6.7,26.9,vegan,dinner,North India,evening
+Pakora,300.8,9.8,19.0,39.2,non-vegetarian,dessert,East India,night
+Gulab Jamun,439.6,26.7,10.7,36.8,eggetarian,dessert,South India,afternoon
+Roti,474.2,23.8,21.1,69.2,non-vegetarian,breakfast,South India,afternoon
+Khichdi,317.9,2.9,6.5,51.9,non-vegetarian,snack,Pan India,afternoon
+Vada Pav,595.6,5.8,1.9,21.0,vegan,dinner,North India,night
+Roti,335.4,23.1,17.5,59.6,vegan,dessert,South India,morning
+Idli,348.6,24.1,21.4,51.2,non-vegetarian,snack,East India,afternoon
+Tandoori Chicken,509.7,7.3,10.4,43.8,vegan,dinner,West India,evening
+Paneer Tikka,186.8,17.9,31.8,61.3,vegan,dessert,Pan India,night
+Shrikhand,471.8,25.6,24.5,27.8,eggetarian,lunch,West India,night
+Masala Chai,174.5,12.0,3.9,55.0,vegan,breakfast,Pan India,morning
+Aloo Tikki,491.1,17.6,8.0,60.9,vegan,dinner,South India,afternoon
+Chicken 65,156.2,22.9,37.6,44.3,non-vegetarian,dessert,South India,evening
+Kheer,132.8,15.1,24.3,12.1,eggetarian,dessert,South India,afternoon
+Curd Rice 79,128.7,7.8,4.4,55.1,vegetarian,lunch,Pan India,morning
+Aloo Tikki 96,554.6,21.7,26.6,70.4,non-vegetarian,lunch,North India,morning
+Masala Chai 48,589.1,3.7,19.3,33.5,vegetarian,lunch,Pan India,night
+Vegetable Pulao 26,184.9,25.9,1.9,50.3,vegan,dessert,Pan India,evening
+Jalebi 13,585.2,8.2,14.3,68.9,vegan,breakfast,South India,evening
+Bhindi Masala 59,282.4,15.0,19.4,27.7,vegetarian,snack,South India,night
+Veg Momos 4,238.5,18.6,11.2,24.8,non-vegetarian,lunch,South India,evening
+Misal Pav 26,547.0,19.9,38.9,14.4,eggetarian,breakfast,Pan India,afternoon
+Palak Paneer 25,233.4,28.1,37.6,78.4,vegan,dinner,North India,evening
+Dhokla 89,249.5,18.2,5.8,62.1,vegan,lunch,Pan India,night
+Lemon Rice 37,333.6,10.7,27.6,69.6,non-vegetarian,breakfast,North India,night
+Shrikhand 83,385.5,21.6,12.9,75.1,eggetarian,breakfast,Pan India,night
+Malai Kofta 7,368.7,15.3,13.2,19.6,non-vegetarian,snack,South India,morning
+Lassi 83,100.6,15.3,10.7,12.4,non-vegetarian,breakfast,East India,afternoon
+Fish Curry 66,592.0,24.4,13.6,72.3,vegan,lunch,West India,morning
+Gajar Halwa 27,425.4,20.4,19.5,72.4,eggetarian,breakfast,North India,morning
+Tandoori Chicken 17,151.9,11.3,10.8,41.2,vegetarian,dinner,Pan India,evening
+Aloo Paratha 32,411.2,5.2,10.8,61.2,non-vegetarian,dessert,East India,evening
+Roti 7,113.9,3.9,21.0,18.9,non-vegetarian,lunch,West India,morning
+Gajar Halwa 89,390.7,27.0,30.5,67.5,eggetarian,snack,East India,morning
+Dhokla 19,522.3,27.8,31.2,65.3,vegetarian,dessert,East India,morning
+Shrikhand 54,179.3,10.7,38.0,76.9,eggetarian,dessert,East India,morning
+Masala Chai 91,201.7,8.5,1.1,11.8,vegetarian,breakfast,Pan India,evening
+Hakka Noodles 66,219.9,26.6,31.4,65.8,eggetarian,dinner,North India,afternoon
+Vegetable Pulao 73,160.8,3.3,7.0,41.2,vegetarian,snack,North India,afternoon
+Shrikhand 34,150.9,28.4,17.4,78.8,eggetarian,snack,North India,night
+Kadhi 4,352.5,14.9,23.7,53.1,eggetarian,lunch,Pan India,night
+Baingan Bharta 85,519.5,10.4,17.3,22.7,eggetarian,lunch,Pan India,evening
+Jalebi 34,307.6,6.4,28.2,37.3,non-vegetarian,breakfast,North India,night
+Sambar 81,448.4,9.1,1.1,73.8,vegan,breakfast,North India,evening
+Hakka Noodles 61,452.2,12.8,12.9,60.4,vegan,lunch,West India,evening
+Kofta Curry 61,462.8,27.9,3.8,65.6,vegetarian,dinner,Pan India,afternoon
+Chicken 65 79,145.4,12.7,21.2,49.5,non-vegetarian,dessert,South India,night
+Kheer 15,348.4,17.5,13.0,47.4,vegan,dessert,South India,night
+Malai Kofta 27,574.5,16.4,12.0,20.5,eggetarian,dessert,East India,night
+Khichdi 46,343.8,3.1,13.5,14.3,vegetarian,dinner,South India,morning
+Aloo Paratha 27,469.1,24.4,4.4,53.9,vegetarian,dessert,West India,evening
+Bhindi Masala 55,175.1,20.1,22.6,44.8,non-vegetarian,lunch,West India,night
+Tamarind Rice 7,520.2,9.9,24.0,51.9,eggetarian,lunch,North India,morning
+Upma 66,183.4,21.1,13.5,50.7,vegetarian,breakfast,West India,morning
+Vada Pav 99,353.3,28.4,16.2,73.6,eggetarian,dinner,South India,evening
+Jalebi 79,101.0,21.9,31.3,10.6,vegetarian,snack,East India,night
+Egg Curry 24,162.5,12.9,19.0,24.5,vegan,lunch,West India,afternoon
+Malai Kofta 31,147.3,2.1,13.9,22.1,vegetarian,snack,South India,morning
+Tamarind Rice 41,239.6,26.0,37.5,63.8,eggetarian,dessert,North India,evening
+Baingan Bharta 50,299.4,16.8,9.8,55.2,non-vegetarian,dinner,North India,night
+Pakora 71,163.3,29.4,34.4,71.5,eggetarian,snack,Pan India,morning
+Sambar 32,459.5,23.3,30.8,18.4,vegan,snack,Pan India,morning
+Chicken Biryani 99,132.3,11.8,14.9,12.8,eggetarian,lunch,West India,afternoon
+Chicken Biryani 50,467.1,7.1,6.3,77.3,vegan,snack,East India,evening
+Pav Bhaji 2,291.2,2.8,5.7,58.6,vegetarian,snack,North India,night
+Baingan Bharta 72,298.6,7.0,12.3,46.7,non-vegetarian,breakfast,West India,night
+Gajar Halwa 60,366.4,25.7,24.7,44.6,eggetarian,breakfast,North India,night
+Shrikhand 53,455.6,16.6,38.6,42.1,vegan,dinner,South India,night
+Gajar Halwa 76,266.7,8.8,12.8,69.8,eggetarian,lunch,West India,morning
+Dal Tadka 56,441.3,9.9,27.4,70.0,vegetarian,dessert,West India,morning
+Egg Curry 93,350.4,3.8,27.8,79.4,vegetarian,dessert,South India,evening
+Dal Tadka 49,505.6,5.1,35.3,52.3,vegan,lunch,Pan India,evening
+Veg Momos 11,312.6,19.2,24.6,21.4,eggetarian,dessert,North India,night
+Thepla 56,187.0,8.9,31.2,20.1,vegan,dessert,North India,evening
+Palak Paneer 86,308.5,15.1,36.4,29.9,vegan,dinner,South India,afternoon
+Dal Tadka 66,114.7,24.9,1.4,61.0,vegan,breakfast,East India,afternoon
+Jalebi 52,478.7,14.8,8.5,39.7,non-vegetarian,dessert,West India,afternoon
+Dhokla 28,544.0,17.7,32.8,15.5,vegetarian,dinner,North India,morning
+Curd Rice 97,387.7,6.1,3.6,71.8,eggetarian,snack,East India,evening
+Veg Momos 81,347.9,28.7,30.5,46.4,vegetarian,lunch,Pan India,evening
+Rasam 67,587.8,7.6,14.4,45.1,eggetarian,dinner,Pan India,night
+Besan Chilla 41,330.2,24.2,10.7,71.8,eggetarian,lunch,Pan India,evening
+Kofta Curry 31,295.8,18.6,9.3,62.3,eggetarian,dessert,Pan India,afternoon
+Upma 63,369.9,14.0,16.7,67.1,eggetarian,dessert,East India,evening
+Chole Bhature 10,576.9,19.6,3.8,48.0,eggetarian,dinner,South India,night
+Paneer Butter Masala 41,216.4,9.3,11.2,75.0,non-vegetarian,dinner,North India,night
+Hakka Noodles 73,303.1,2.7,12.7,15.5,non-vegetarian,dessert,North India,morning
+Rajma Chawal 19,436.6,19.8,14.6,51.8,non-vegetarian,lunch,East India,evening
+Vegetable Pulao 23,104.8,22.3,4.4,42.2,vegetarian,lunch,South India,evening
+Samosa 61,498.2,6.1,34.7,48.2,vegan,lunch,North India,evening
+Shrikhand 90,486.8,3.9,33.4,36.9,eggetarian,dessert,East India,evening
+Besan Chilla 9,152.0,18.8,24.4,36.1,vegan,snack,Pan India,morning
+Upma 64,565.3,26.5,7.4,66.6,vegetarian,snack,North India,morning
+Idli 44,278.7,21.4,26.2,52.9,eggetarian,snack,North India,afternoon
+Lassi 82,354.8,11.4,33.3,49.7,eggetarian,snack,North India,afternoon
+Bhindi Masala 37,344.7,29.7,34.5,43.6,vegan,dessert,West India,evening
+Samosa 66,167.4,29.4,34.8,22.2,non-vegetarian,breakfast,East India,afternoon
+Vegetable Pulao 18,249.3,2.4,26.9,22.4,vegetarian,dessert,South India,afternoon
+Malai Kofta 89,429.0,9.3,2.0,59.5,vegetarian,breakfast,South India,night
+Egg Curry 13,337.8,4.6,26.6,37.9,vegetarian,breakfast,North India,afternoon
+Egg Curry 9,577.6,22.8,21.7,36.3,non-vegetarian,lunch,North India,morning
+Chicken Biryani 46,320.0,14.9,28.1,44.6,non-vegetarian,dessert,East India,morning
+Egg Curry 63,258.1,27.1,7.5,63.4,non-vegetarian,lunch,South India,night
+Sambar 37,306.2,14.5,20.8,34.0,eggetarian,dinner,West India,afternoon
+Besan Chilla 37,449.5,4.0,31.9,70.6,vegan,snack,East India,night
+Kadhi 88,208.8,6.5,2.3,26.4,vegan,breakfast,South India,morning
+Fish Curry 81,421.2,21.7,20.1,17.2,eggetarian,breakfast,Pan India,afternoon
+Pav Bhaji 3,282.2,16.0,13.8,55.6,vegan,dessert,South India,afternoon
+Hakka Noodles 22,362.3,4.9,1.5,39.3,vegetarian,lunch,Pan India,evening
+Chicken Biryani 22,202.7,26.9,38.2,59.6,non-vegetarian,breakfast,North India,evening
+Pav Bhaji 64,209.8,28.3,37.8,29.9,vegan,breakfast,West India,afternoon
+Baingan Bharta 10,585.5,2.4,16.8,76.0,vegetarian,snack,East India,afternoon
+Kofta Curry 38,430.4,17.2,30.9,53.8,vegan,dessert,West India,evening
+Kheer 97,198.6,20.0,34.9,66.2,eggetarian,dessert,East India,night
+Tandoori Chicken 98,593.4,11.8,36.9,59.8,eggetarian,breakfast,South India,morning
+Samosa 26,289.9,12.0,7.6,42.5,vegan,dinner,West India,morning
+Jalebi 19,110.2,10.4,31.4,75.2,eggetarian,lunch,East India,evening
+Paneer Butter Masala 33,343.7,24.7,14.1,72.5,vegetarian,dessert,East India,afternoon
+Tamarind Rice 32,208.1,5.6,7.3,23.6,eggetarian,lunch,South India,night
+Shrikhand 69,424.9,8.1,34.4,61.4,vegetarian,breakfast,Pan India,afternoon
+Poha 52,497.6,18.0,12.5,74.2,vegetarian,breakfast,Pan India,afternoon
+Sambar 18,432.2,26.8,23.8,44.8,vegan,breakfast,South India,evening
+Chicken 65 55,184.3,17.0,15.5,58.0,vegetarian,snack,North India,night
+Rajma Chawal 16,515.8,26.5,17.8,54.6,vegan,breakfast,North India,night
+Poha 89,182.5,12.0,3.4,12.9,eggetarian,dinner,Pan India,night
+Pav Bhaji 68,116.2,23.5,10.0,24.5,non-vegetarian,snack,South India,afternoon
+Idli 39,464.6,16.6,17.7,38.2,vegan,snack,Pan India,night
+Bhindi Masala 66,467.8,20.3,20.2,53.5,vegetarian,breakfast,South India,afternoon
+Chole Bhature 46,264.1,22.4,12.8,51.1,vegetarian,snack,Pan India,morning
+Vegetable Pulao 26,221.4,24.8,34.3,29.4,non-vegetarian,dessert,East India,afternoon
+Mutton Curry 31,327.8,11.0,7.7,60.9,eggetarian,snack,North India,afternoon
+Kadhi 52,477.9,7.0,39.2,77.6,vegetarian,snack,East India,night
+Vegetable Pulao 29,514.9,20.2,16.6,12.1,non-vegetarian,dessert,South India,afternoon
+Dal Tadka 27,240.8,10.0,27.2,33.8,eggetarian,lunch,South India,morning
+Chole Bhature 60,217.5,18.8,27.3,22.3,vegan,lunch,South India,evening
+Palak Paneer 19,580.8,3.0,30.2,58.1,vegetarian,lunch,South India,morning
+Chole Bhature 59,509.1,18.7,17.7,10.6,non-vegetarian,dinner,South India,afternoon
+Lassi 10,168.5,8.3,27.8,50.4,eggetarian,snack,South India,evening
+Gulab Jamun 90,392.9,27.6,34.8,36.8,vegan,lunch,South India,evening
+Sambar 53,272.9,25.3,23.2,14.9,non-vegetarian,lunch,West India,morning
+Gajar Halwa 71,472.2,12.2,6.6,34.7,vegetarian,lunch,East India,morning
+Bhindi Masala 85,189.3,27.6,19.7,13.4,eggetarian,breakfast,North India,afternoon
+Vegetable Pulao 82,326.6,27.8,4.3,52.6,vegetarian,dessert,West India,night
+Mutton Curry 16,321.3,17.2,12.3,22.7,vegetarian,breakfast,South India,afternoon
+Egg Curry 3,412.2,11.4,34.0,28.9,vegetarian,dessert,East India,morning
+Khichdi 89,368.4,11.2,17.0,54.5,non-vegetarian,snack,Pan India,night
+Vada Pav 60,132.3,23.6,20.2,62.9,vegetarian,snack,East India,afternoon
+Misal Pav 78,498.0,13.7,35.2,70.9,vegan,dinner,East India,night
+Kofta Curry 90,137.5,11.6,2.2,50.6,vegan,breakfast,Pan India,morning
+Thepla 53,156.8,14.0,20.3,14.5,non-vegetarian,dessert,East India,evening
+Masala Chai 90,193.0,27.2,31.1,11.8,vegan,breakfast,Pan India,morning
+Veg Momos 18,269.1,28.8,34.1,58.7,vegetarian,dessert,Pan India,night
+Palak Paneer 79,519.0,10.3,37.7,10.0,non-vegetarian,breakfast,East India,night
+Rasam 9,594.1,22.5,32.3,53.4,vegetarian,snack,South India,morning
+Veg Momos 67,554.9,8.1,14.4,38.9,eggetarian,lunch,East India,evening
+Bhindi Masala 14,150.9,27.6,38.3,50.3,eggetarian,snack,East India,afternoon
+Mutton Curry 24,302.8,24.6,24.0,64.1,vegan,dessert,East India,afternoon
+Vegetable Pulao 36,106.4,3.8,24.8,35.9,vegetarian,lunch,Pan India,night
+Aloo Tikki 77,593.4,25.7,4.8,18.8,non-vegetarian,lunch,Pan India,morning
+Pakora 50,246.4,23.7,35.0,41.4,eggetarian,snack,East India,afternoon
+Dosa 92,409.6,6.8,2.6,64.7,non-vegetarian,dinner,South India,night
+Malai Kofta 94,351.3,16.2,20.7,80.0,vegan,dessert,East India,evening
+Mutton Curry 29,358.1,8.0,33.5,58.0,vegetarian,lunch,Pan India,morning
+Besan Chilla 48,406.1,5.4,31.6,34.7,vegan,lunch,South India,afternoon
+Vegetable Pulao 53,250.0,18.0,12.3,62.8,vegetarian,dinner,South India,night
+Bhindi Masala 79,379.6,7.6,8.7,30.7,vegan,lunch,South India,night
+Dhokla 77,396.3,12.0,1.1,10.9,non-vegetarian,dinner,South India,night
+Chicken 65 34,170.0,29.4,17.9,48.3,eggetarian,breakfast,South India,night
+Besan Chilla 72,358.3,4.9,36.4,76.2,eggetarian,dessert,South India,evening
+Upma 72,484.1,13.7,36.0,61.6,vegan,dinner,Pan India,evening
+Gajar Halwa 17,180.9,13.5,34.0,41.3,non-vegetarian,breakfast,Pan India,night
+Bhindi Masala 34,112.9,8.7,11.9,70.6,vegetarian,dessert,West India,afternoon
+Paneer Tikka 83,263.9,10.5,20.3,30.0,eggetarian,dinner,North India,afternoon
+Baingan Bharta 23,487.2,11.6,17.1,34.2,vegan,breakfast,South India,afternoon
+Chicken 65 21,329.8,13.2,14.1,33.0,vegetarian,dessert,East India,afternoon
+Dosa 69,309.9,12.4,21.3,64.1,vegan,snack,North India,night
+Sambar 16,585.1,8.5,22.4,49.9,non-vegetarian,breakfast,East India,morning
+Rajma Chawal 48,456.7,25.5,14.6,30.3,vegetarian,snack,North India,evening
+Samosa 17,490.6,3.3,16.1,12.5,vegetarian,dessert,West India,afternoon
+Gajar Halwa 49,475.5,28.5,36.0,58.2,eggetarian,dessert,Pan India,night
+Chole Bhature 5,390.2,3.0,5.8,33.2,vegan,dessert,South India,afternoon
+Gajar Halwa 33,479.8,26.3,32.4,18.4,eggetarian,lunch,North India,evening
+Chole Bhature 99,480.4,6.6,26.7,20.2,eggetarian,lunch,South India,evening
+Roti 81,364.8,7.1,5.5,57.9,vegan,dinner,Pan India,night
+Rajma Chawal 46,557.0,16.6,15.9,40.9,vegetarian,dessert,West India,afternoon
+Masala Chai 6,574.0,7.4,6.2,16.1,eggetarian,lunch,Pan India,night
+Poha 49,186.7,21.9,6.0,68.1,vegetarian,breakfast,Pan India,evening
+Dosa 76,263.6,29.3,8.0,74.2,vegan,dinner,West India,night
+Hakka Noodles 31,300.9,20.6,33.2,67.9,vegan,breakfast,West India,afternoon
+Pav Bhaji 34,299.7,10.9,8.5,26.0,non-vegetarian,dinner,Pan India,evening
+Aloo Tikki 70,176.9,28.5,24.9,54.8,vegan,breakfast,South India,evening
+Veg Momos 49,268.3,27.3,31.8,29.3,eggetarian,lunch,South India,night
+Egg Curry 14,556.8,15.9,12.0,28.1,eggetarian,dessert,West India,night
+Upma 99,395.5,14.3,23.7,64.2,vegan,snack,South India,night
+Vegetable Pulao 1,372.1,5.6,16.7,31.5,eggetarian,lunch,Pan India,morning
+Hakka Noodles 27,401.0,6.9,27.4,56.6,vegetarian,snack,South India,evening
+Jalebi 59,552.8,15.5,12.6,77.8,vegan,dessert,North India,night
+Hakka Noodles 85,109.1,25.2,30.4,30.0,vegetarian,dinner,South India,night
+Dosa 2,555.3,11.5,32.4,21.5,eggetarian,snack,South India,afternoon
+Bhindi Masala 79,245.5,4.2,35.2,16.4,eggetarian,dessert,Pan India,afternoon
+Kheer 65,271.8,25.4,10.2,31.6,vegetarian,snack,North India,morning
+Rasam 9,484.4,12.0,17.4,13.7,vegetarian,snack,North India,afternoon
+Pav Bhaji 3,305.3,25.2,20.1,48.0,vegan,dinner,East India,evening
+Kofta Curry 83,474.4,17.3,19.0,39.3,eggetarian,dessert,North India,evening
+Besan Chilla 93,147.5,17.1,39.0,72.3,non-vegetarian,dinner,East India,night
+Jalebi 41,519.5,5.9,34.4,75.8,non-vegetarian,dinner,West India,morning
+Hakka Noodles 29,387.5,12.2,6.5,24.4,vegan,breakfast,East India,night
+Roti 54,143.4,21.2,39.8,55.9,eggetarian,dinner,South India,night
+Malai Kofta 60,112.8,7.1,21.6,69.6,eggetarian,dessert,East India,afternoon
+Dhokla 90,108.8,11.5,23.9,14.8,non-vegetarian,snack,South India,evening
+Rasam 81,160.8,27.8,39.9,47.8,eggetarian,dinner,Pan India,evening
+Pakora 35,460.2,18.7,31.4,14.8,non-vegetarian,snack,South India,evening
+Bhindi Masala 1,553.6,20.5,25.9,31.9,vegan,dessert,West India,afternoon
+Vada Pav 53,497.0,26.9,28.3,57.9,non-vegetarian,breakfast,Pan India,night
+Hakka Noodles 44,167.8,12.8,31.6,31.5,vegetarian,breakfast,West India,morning
+Besan Chilla 77,361.6,29.2,17.3,44.6,non-vegetarian,snack,West India,afternoon
+Curd Rice 12,565.4,27.7,33.8,27.9,non-vegetarian,breakfast,West India,night
+Roti 38,120.8,21.9,9.1,11.8,eggetarian,snack,Pan India,afternoon
+Kofta Curry 77,158.5,18.4,20.9,57.2,vegan,breakfast,North India,morning
+Modak 15,218.4,8.9,29.9,33.0,vegan,dinner,East India,night
+Palak Paneer 19,416.4,10.0,8.5,29.3,vegetarian,breakfast,West India,afternoon
+Dhokla 78,103.5,21.2,4.6,66.1,eggetarian,snack,South India,evening
+Curd Rice 66,567.7,12.6,1.4,30.2,non-vegetarian,snack,North India,night
+Upma 61,441.2,27.9,11.6,70.0,vegan,snack,North India,evening
+Modak 94,149.4,19.4,35.7,79.8,vegan,lunch,South India,afternoon
+Curd Rice 58,215.1,14.9,28.3,74.2,vegan,lunch,West India,evening
+Samosa 50,493.3,9.7,39.7,51.8,vegan,lunch,South India,afternoon
+Mutton Curry 18,339.2,20.1,29.8,44.7,eggetarian,lunch,North India,morning
+Masala Chai 79,442.0,26.4,37.0,14.3,non-vegetarian,dessert,North India,afternoon
+Misal Pav 58,129.2,10.2,29.3,13.0,vegan,dinner,South India,evening
+Thepla 32,582.7,3.3,7.5,53.8,eggetarian,dessert,South India,night
+Malai Kofta 84,156.0,29.6,17.7,36.9,non-vegetarian,dessert,East India,night
+Kadhi 34,587.6,13.9,22.7,68.7,vegan,lunch,West India,morning
+Pakora 98,136.8,27.7,20.0,16.6,eggetarian,snack,East India,evening
+Thepla 21,535.6,6.0,27.4,41.2,eggetarian,lunch,West India,afternoon
+Sambar 76,172.4,12.0,17.0,45.1,non-vegetarian,lunch,East India,afternoon
+Baingan Bharta 58,280.2,6.5,27.0,28.4,non-vegetarian,snack,North India,morning
+Khichdi 26,176.1,11.3,34.3,46.6,eggetarian,dessert,East India,morning
+Roti 56,215.1,4.4,16.3,19.7,eggetarian,breakfast,North India,morning
+Chicken 65 8,103.0,29.7,7.8,38.1,vegetarian,dessert,East India,afternoon
+Misal Pav 10,228.6,5.7,7.9,20.7,vegan,snack,Pan India,afternoon
+Dal Tadka 82,386.7,29.0,21.4,39.6,vegan,snack,Pan India,afternoon
+Idli 35,177.7,19.2,39.0,74.4,non-vegetarian,breakfast,East India,morning
+Tandoori Chicken 86,134.1,4.2,6.8,21.5,vegetarian,dessert,North India,night
+Chole Bhature 15,409.9,9.8,1.5,20.9,non-vegetarian,breakfast,North India,evening
+Rajma Chawal 13,161.1,18.5,6.9,52.0,non-vegetarian,dessert,West India,evening
+Bhindi Masala 67,318.4,15.9,31.6,48.1,vegetarian,dessert,East India,evening
+Dal Tadka 16,269.8,29.9,24.5,64.8,vegetarian,snack,East India,night
+Malai Kofta 78,413.6,23.8,30.8,71.8,eggetarian,dessert,West India,morning
+Tandoori Chicken 45,524.7,22.6,8.6,71.2,non-vegetarian,snack,North India,night
+Dal Tadka 13,127.8,21.5,12.8,75.7,eggetarian,breakfast,East India,morning
+Idli 84,235.8,4.3,2.2,50.3,non-vegetarian,lunch,North India,evening
+Dhokla 98,582.9,14.2,33.6,50.3,eggetarian,dinner,East India,evening
+Chole Bhature 56,389.3,17.8,36.3,39.8,vegetarian,dinner,North India,evening
+Egg Curry 42,431.7,6.8,27.8,43.1,vegetarian,snack,East India,afternoon
+Mutton Curry 70,521.5,27.7,22.7,74.9,vegan,breakfast,West India,evening
+Aloo Tikki 9,595.6,8.7,17.2,28.9,non-vegetarian,dinner,Pan India,night
+Rajma Chawal 13,294.9,26.3,35.2,16.8,non-vegetarian,dinner,South India,night
+Vegetable Pulao 66,104.2,19.9,30.5,63.5,vegan,dessert,West India,evening
+Lassi 23,589.8,26.7,14.1,40.2,vegetarian,breakfast,North India,morning
+Misal Pav 56,456.0,11.7,11.8,47.9,vegetarian,breakfast,West India,morning
+Paneer Butter Masala 58,494.1,10.0,1.8,55.7,eggetarian,snack,South India,night
+Vegetable Pulao 51,514.0,10.4,20.9,62.3,non-vegetarian,dinner,East India,night
+Khichdi 49,405.0,28.0,3.3,34.9,vegan,dinner,Pan India,afternoon
+Aloo Paratha 20,114.0,6.2,38.4,74.0,eggetarian,snack,North India,morning
+Bhindi Masala 45,481.0,16.1,4.8,70.6,vegetarian,dinner,North India,afternoon
+Fish Curry 44,177.9,20.8,20.5,56.6,vegetarian,dessert,East India,evening
+Kheer 93,318.2,14.6,10.0,42.3,vegetarian,dessert,South India,night
+Chole Bhature 37,119.6,28.1,16.9,32.8,vegan,lunch,South India,evening
+Misal Pav 32,200.3,4.4,4.5,76.4,non-vegetarian,snack,Pan India,evening
+Lassi 44,486.9,7.8,20.3,55.7,vegetarian,snack,West India,evening
+Shrikhand 7,156.5,19.7,30.5,38.5,vegan,dinner,South India,afternoon
+Bhindi Masala 34,291.5,23.8,9.8,19.0,vegetarian,dessert,West India,afternoon
+Upma 42,160.8,8.1,2.3,15.2,vegetarian,lunch,Pan India,evening
+Butter Naan 64,128.8,14.9,6.1,23.7,eggetarian,dessert,West India,morning
+Tamarind Rice 36,310.1,29.1,10.5,58.4,non-vegetarian,breakfast,South India,evening
+Chicken 65 32,473.1,27.0,13.6,76.6,non-vegetarian,breakfast,West India,night
+Lassi 72,334.8,29.4,37.4,19.0,eggetarian,lunch,West India,evening
+Baingan Bharta 67,207.1,18.8,8.2,52.2,non-vegetarian,snack,East India,afternoon
+Modak 91,515.0,17.0,32.9,48.9,eggetarian,snack,West India,night
+Aloo Tikki 70,427.4,2.9,33.1,50.7,non-vegetarian,lunch,Pan India,evening
+Samosa 17,559.2,28.9,24.0,43.7,non-vegetarian,breakfast,Pan India,night
+Thepla 39,382.7,24.2,32.1,45.7,non-vegetarian,dessert,Pan India,night
+Kofta Curry 77,579.9,29.6,6.0,28.9,vegan,dessert,East India,night
+Dosa 10,584.8,11.8,6.5,53.8,eggetarian,dessert,West India,night
+Upma 22,250.5,11.7,3.7,46.9,vegetarian,lunch,Pan India,night
+Modak 94,314.2,29.4,30.6,43.3,vegan,dessert,South India,afternoon
+Paneer Tikka 78,108.8,16.4,32.1,60.6,non-vegetarian,lunch,West India,evening
+Pav Bhaji 91,232.4,5.9,18.1,19.8,non-vegetarian,lunch,South India,night
+Tandoori Chicken 27,266.2,6.4,30.3,57.3,vegan,dessert,Pan India,morning
+Bhindi Masala 64,270.8,25.9,22.8,53.6,non-vegetarian,snack,North India,afternoon
+Hakka Noodles 94,523.8,27.9,6.0,15.1,eggetarian,snack,East India,afternoon
+Shrikhand 82,474.4,17.4,23.4,43.8,non-vegetarian,dessert,South India,night
+Khichdi 58,335.7,28.0,15.7,40.9,vegetarian,lunch,South India,morning
+Palak Paneer 29,327.3,27.2,7.1,48.0,vegan,lunch,Pan India,morning
+Butter Naan 12,538.8,14.5,37.0,13.8,vegetarian,dessert,North India,morning
+Veg Momos 37,351.1,14.1,20.1,29.6,eggetarian,dessert,North India,afternoon
+Mutton Curry 24,312.5,22.9,24.5,26.2,vegan,dinner,East India,evening
+Curd Rice 80,307.3,9.4,25.9,34.5,vegan,snack,South India,evening
+Gulab Jamun 7,399.1,10.4,21.5,13.4,non-vegetarian,snack,East India,evening
+Curd Rice 69,269.8,23.6,29.8,66.6,eggetarian,dessert,West India,evening
+Chole Bhature 3,276.5,18.0,39.9,61.8,eggetarian,breakfast,West India,night
+Tandoori Chicken 1,566.3,10.3,25.5,47.5,non-vegetarian,dessert,East India,morning
+Dal Tadka 88,353.2,28.9,9.3,42.5,non-vegetarian,lunch,Pan India,morning
+Kofta Curry 27,408.3,10.1,26.1,29.9,eggetarian,breakfast,South India,morning
+Vegetable Pulao 57,229.7,28.0,36.6,58.7,vegetarian,lunch,North India,afternoon
+Khichdi 33,598.6,14.3,23.9,50.4,eggetarian,dessert,East India,night
+Malai Kofta 26,213.5,18.6,36.4,39.1,eggetarian,dinner,East India,morning
+Gajar Halwa 72,404.9,15.6,35.0,75.3,vegetarian,dinner,Pan India,evening
+Pakora 4,369.2,11.0,16.0,71.9,vegetarian,dinner,North India,afternoon
+Thepla 22,562.4,2.9,5.5,60.6,vegetarian,lunch,North India,evening
+Paneer Tikka 56,526.6,12.4,27.2,48.5,non-vegetarian,lunch,North India,night
+Gajar Halwa 1,431.6,20.9,12.7,24.1,vegetarian,dinner,Pan India,morning
+Poha 79,404.4,23.7,22.5,42.2,eggetarian,breakfast,Pan India,afternoon
+Samosa 64,575.2,25.8,24.9,60.3,vegetarian,dessert,East India,afternoon
+Vada Pav 11,349.9,16.0,16.2,17.0,vegan,dinner,South India,afternoon
+Egg Curry 17,564.0,10.8,13.2,56.9,vegetarian,dessert,Pan India,evening
+Paneer Tikka 78,138.8,18.6,23.7,53.6,non-vegetarian,dinner,Pan India,afternoon
+Baingan Bharta 8,245.1,6.0,35.3,73.8,non-vegetarian,lunch,East India,evening
+Butter Naan 65,311.3,20.0,33.1,55.9,non-vegetarian,dinner,Pan India,night
+Lassi 39,285.1,9.2,4.4,12.1,non-vegetarian,snack,East India,evening
+Baingan Bharta 89,334.2,22.6,38.6,60.1,vegan,snack,East India,afternoon
+Besan Chilla 63,284.1,3.8,35.9,67.3,non-vegetarian,dinner,North India,afternoon
+Tandoori Chicken 52,438.6,10.6,20.0,53.0,eggetarian,dinner,Pan India,night
+Pav Bhaji 60,156.4,10.3,16.6,46.0,vegetarian,dessert,West India,afternoon
+Masala Chai 33,456.8,8.4,29.4,57.5,non-vegetarian,breakfast,South India,afternoon
+Mutton Curry 66,517.0,8.8,33.4,51.2,vegan,dessert,East India,afternoon
+Misal Pav 51,105.0,28.4,9.0,34.7,vegetarian,lunch,East India,night
+Egg Curry 4,589.3,14.5,32.2,79.0,vegan,dessert,North India,evening
+Curd Rice 13,580.4,9.9,22.3,58.5,non-vegetarian,dessert,South India,afternoon
+Veg Momos 16,489.0,29.6,38.1,24.9,vegetarian,breakfast,East India,night
+Vada Pav 32,230.9,15.6,33.2,78.7,vegetarian,breakfast,South India,evening
+Chicken Biryani 9,560.3,3.0,5.9,14.5,vegetarian,lunch,South India,night
+Bhindi Masala 86,346.6,11.3,8.0,55.0,vegan,lunch,Pan India,night
+Butter Naan 34,566.4,9.4,4.3,73.2,vegan,dessert,Pan India,morning
+Chole Bhature 45,566.3,19.3,17.3,31.7,non-vegetarian,lunch,North India,evening
+Chole Bhature 80,190.5,16.9,3.1,33.6,eggetarian,breakfast,East India,afternoon
+Shrikhand 45,312.1,12.3,25.2,43.7,non-vegetarian,lunch,North India,night
+Tandoori Chicken 91,449.3,9.0,16.4,15.0,eggetarian,dinner,West India,morning
+Kadhi 96,112.1,27.6,28.3,29.5,vegan,dessert,West India,night
+Aloo Paratha 37,568.2,10.7,6.6,70.4,vegan,snack,Pan India,night
+Malai Kofta 33,505.7,7.3,34.9,41.8,vegan,lunch,South India,night
+Rajma Chawal 53,339.4,4.2,4.9,33.4,vegan,snack,West India,evening
+Jalebi 9,109.3,18.7,38.1,79.3,non-vegetarian,dinner,East India,evening
+Rajma Chawal 74,215.7,16.1,24.0,46.4,non-vegetarian,snack,East India,night
+Kheer 38,432.9,22.9,39.2,31.6,eggetarian,breakfast,East India,afternoon
+Vegetable Pulao 98,256.8,21.3,36.0,14.8,vegetarian,dessert,North India,morning
+Malai Kofta 14,362.6,14.6,9.5,30.7,vegetarian,dinner,Pan India,morning
+Egg Curry 2,304.1,27.8,35.5,13.7,eggetarian,dessert,South India,afternoon
+Dal Tadka 89,348.3,26.0,34.6,57.6,eggetarian,breakfast,North India,morning
+Idli 38,426.6,4.1,16.1,76.3,vegetarian,breakfast,Pan India,night
+Dhokla 15,435.4,26.4,11.7,26.8,non-vegetarian,breakfast,East India,morning
+Kadhi 83,531.7,27.5,29.4,75.6,eggetarian,lunch,North India,night
+Dosa 41,508.1,22.0,24.0,67.5,vegetarian,snack,North India,afternoon
+Besan Chilla 17,383.0,11.8,37.5,58.8,non-vegetarian,breakfast,West India,afternoon
+Malai Kofta 54,222.6,12.3,34.6,57.3,vegan,lunch,North India,morning
+Chicken 65 19,363.8,28.2,7.2,42.5,vegan,breakfast,North India,morning
+Pav Bhaji 41,217.6,9.8,25.4,59.1,non-vegetarian,snack,West India,evening
+Upma 58,154.2,9.9,38.8,77.3,non-vegetarian,lunch,Pan India,morning
+Palak Paneer 34,106.0,15.1,34.9,35.8,vegan,dessert,West India,night
+Kadhi 56,338.5,17.9,2.2,33.4,vegan,snack,Pan India,morning
+Misal Pav 15,246.9,11.8,11.9,63.0,vegan,dessert,South India,afternoon
+Butter Naan 55,422.0,22.2,5.7,16.1,eggetarian,snack,North India,night
+Jalebi 34,487.7,17.1,10.1,76.1,vegan,lunch,South India,afternoon
+Paneer Tikka 66,501.9,2.5,8.3,22.0,non-vegetarian,breakfast,East India,night
+Chole Bhature 65,296.9,5.9,17.9,40.5,vegetarian,snack,Pan India,afternoon
+Idli 97,513.7,5.4,1.7,58.0,vegetarian,lunch,North India,afternoon
+Vegetable Pulao 62,516.5,23.8,36.9,14.0,eggetarian,dinner,West India,afternoon
+Lemon Rice 25,298.8,13.5,34.1,58.0,non-vegetarian,dinner,South India,evening
+Samosa 66,391.5,18.4,4.9,37.2,non-vegetarian,dinner,West India,evening
+Palak Paneer 21,198.0,29.0,25.8,23.1,vegetarian,lunch,Pan India,afternoon
+Tandoori Chicken 20,498.0,26.3,23.8,35.4,non-vegetarian,lunch,East India,afternoon
+Khichdi 43,333.2,3.8,7.9,15.0,non-vegetarian,snack,East India,evening
+Misal Pav 43,401.3,18.2,29.1,47.8,vegan,snack,South India,night
+Chicken 65 65,505.1,21.3,5.1,20.5,non-vegetarian,breakfast,Pan India,morning
+Paneer Tikka 30,137.2,20.7,14.1,71.7,vegetarian,breakfast,South India,morning
+Pav Bhaji 95,335.8,16.5,23.2,32.9,eggetarian,dinner,West India,evening
+Lemon Rice 67,546.5,4.4,27.6,69.3,vegetarian,dessert,East India,evening
+Malai Kofta 93,306.0,6.5,27.4,45.9,vegetarian,lunch,North India,evening
+Kofta Curry 72,377.5,3.6,31.3,64.4,vegetarian,dinner,North India,night
+Curd Rice 77,296.9,9.2,33.9,42.8,vegetarian,dinner,West India,morning
+Kofta Curry 2,559.9,3.3,31.2,57.4,vegetarian,lunch,East India,night
+Chicken 65 69,114.4,15.4,31.5,10.4,eggetarian,breakfast,North India,morning
+Chole Bhature 49,105.9,14.2,3.5,23.5,eggetarian,breakfast,Pan India,morning
+Lassi 86,106.1,7.3,8.6,41.8,eggetarian,dinner,Pan India,night
+Gajar Halwa 84,128.0,14.2,2.8,20.1,non-vegetarian,lunch,West India,afternoon
+Paneer Tikka 98,366.6,16.4,36.2,35.3,eggetarian,lunch,Pan India,morning
+Baingan Bharta 40,271.8,26.0,11.5,73.5,eggetarian,breakfast,South India,afternoon
+Modak 46,347.5,19.1,15.9,33.0,vegetarian,dessert,West India,night
+Curd Rice 73,414.2,12.0,12.6,63.2,vegan,dinner,North India,night
+Aloo Paratha 54,141.6,16.2,4.9,20.5,eggetarian,lunch,West India,morning
+Vegetable Pulao 42,235.2,22.8,29.4,18.5,vegetarian,dessert,West India,afternoon
+Jalebi 86,363.9,20.7,11.3,73.2,vegan,snack,West India,afternoon
+Aloo Tikki 50,103.8,16.6,8.7,36.9,eggetarian,lunch,North India,evening
+Modak 80,481.1,22.2,39.8,11.0,vegan,lunch,North India,night
+Butter Naan 87,167.0,4.2,35.2,65.0,vegan,dessert,South India,afternoon
+Sambar 26,450.5,28.1,28.1,62.5,vegan,lunch,East India,morning
+Veg Momos 98,315.1,30.0,33.7,17.4,non-vegetarian,snack,North India,evening
+Kadhi 3,595.3,8.1,36.9,53.5,eggetarian,dessert,South India,afternoon
+Dhokla 85,428.7,26.4,18.0,17.2,vegan,snack,South India,afternoon
+Baingan Bharta 31,342.8,7.7,11.8,71.4,vegan,dessert,North India,afternoon
+Dal Tadka 12,529.0,17.6,23.5,77.0,eggetarian,lunch,Pan India,evening
+Chicken 65 32,510.7,8.7,18.6,67.2,non-vegetarian,dinner,North India,evening
+Dal Tadka 97,435.7,9.5,17.0,33.0,non-vegetarian,dessert,Pan India,morning
+Curd Rice 65,344.4,21.7,6.8,59.6,vegetarian,breakfast,East India,night
+Gulab Jamun 38,582.5,18.2,37.3,71.4,non-vegetarian,dinner,Pan India,morning
+Vegetable Pulao 54,412.6,14.7,11.9,47.8,vegan,lunch,North India,night
+Lassi 53,397.8,28.0,14.7,13.8,vegan,snack,South India,evening
+Gajar Halwa 42,371.6,4.3,13.9,43.6,vegan,dessert,West India,afternoon
+Modak 10,580.2,12.5,38.3,64.2,vegan,dinner,West India,night
+Roti 27,229.6,23.8,12.7,50.7,vegan,dinner,South India,morning
+Baingan Bharta 33,265.5,19.8,36.9,25.3,non-vegetarian,lunch,North India,morning
+Hakka Noodles 8,268.5,17.2,26.6,50.9,vegetarian,lunch,North India,night
+Besan Chilla 98,445.8,23.8,1.6,73.8,vegetarian,lunch,South India,night
+Thepla 10,230.6,7.8,3.6,76.0,vegan,dessert,East India,morning
+Khichdi 1,358.7,19.6,18.2,30.5,vegan,dessert,Pan India,afternoon
+Masala Chai 42,439.3,3.2,2.0,17.9,eggetarian,breakfast,West India,afternoon
+Roti 31,371.3,3.4,33.8,48.1,non-vegetarian,dinner,West India,morning
+Palak Paneer 15,294.0,17.0,38.8,33.2,vegan,breakfast,Pan India,night
+Aloo Tikki 46,407.1,7.9,34.2,18.7,vegetarian,dinner,East India,afternoon
+Vada Pav 74,450.3,14.1,13.8,62.7,vegan,breakfast,East India,night
+Besan Chilla 77,237.1,6.0,3.4,48.4,eggetarian,dessert,North India,night
+Kadhi 64,444.5,19.1,17.0,61.7,eggetarian,snack,South India,morning
+Shrikhand 79,203.2,25.2,21.9,10.3,eggetarian,dinner,South India,night
+Rajma Chawal 12,238.6,13.2,11.0,53.5,eggetarian,lunch,South India,night
+Kofta Curry 64,278.0,21.1,24.3,43.7,non-vegetarian,breakfast,West India,afternoon
+Poha 40,428.5,13.0,37.4,71.7,eggetarian,snack,Pan India,afternoon
+Egg Curry 5,113.2,6.1,7.5,63.4,eggetarian,breakfast,North India,morning
+Roti 67,405.4,19.9,5.5,53.7,eggetarian,lunch,West India,afternoon
+Curd Rice 6,282.1,3.0,33.5,26.7,eggetarian,breakfast,South India,morning
+Dosa 56,348.9,12.0,14.0,55.9,non-vegetarian,breakfast,West India,night
+Malai Kofta 47,484.3,17.6,9.8,55.1,vegan,breakfast,South India,morning
+Kheer 30,410.4,6.1,13.5,68.3,vegan,snack,Pan India,evening
+Fish Curry 84,591.5,25.2,34.3,45.2,vegetarian,dinner,Pan India,evening
+Khichdi 74,427.2,5.6,26.3,21.0,non-vegetarian,dinner,West India,morning
+Dal Tadka 31,393.2,25.5,38.2,18.5,vegetarian,lunch,South India,night
+Fish Curry 36,174.5,15.5,33.2,44.5,non-vegetarian,snack,South India,morning
+Paneer Tikka 65,490.6,11.5,36.0,33.1,vegan,breakfast,South India,morning
+Sambar 41,413.7,21.3,29.7,27.6,eggetarian,breakfast,West India,evening
+Fish Curry 94,582.4,11.6,7.5,10.2,vegetarian,dinner,Pan India,morning
+Vada Pav 55,341.8,19.3,17.7,15.9,non-vegetarian,dessert,West India,evening
+Aloo Paratha 69,510.7,4.8,30.9,79.5,non-vegetarian,dessert,Pan India,afternoon
+Vegetable Pulao 75,202.3,29.9,2.0,15.8,non-vegetarian,snack,Pan India,afternoon
+Samosa 31,243.9,29.3,9.6,38.8,non-vegetarian,dinner,North India,night
+Samosa 84,541.4,25.9,7.9,24.9,vegetarian,dinner,West India,morning
+Lemon Rice 43,369.2,12.3,30.4,20.2,eggetarian,dinner,North India,morning
+Idli 3,351.7,21.7,12.7,47.8,vegetarian,dessert,Pan India,evening
+Lassi 6,393.5,24.3,15.8,12.1,non-vegetarian,breakfast,West India,evening
+Lemon Rice 81,326.9,13.6,2.1,60.4,vegetarian,dessert,Pan India,evening
+Gajar Halwa 22,591.0,14.3,8.0,19.0,non-vegetarian,breakfast,East India,evening
+Poha 62,231.1,13.9,15.7,23.0,vegan,dinner,North India,morning
+Gajar Halwa 79,116.3,4.7,28.3,57.1,eggetarian,dinner,North India,morning
+Egg Curry 21,171.3,5.4,3.2,66.1,eggetarian,breakfast,East India,afternoon
+Chicken Biryani 80,286.9,13.2,1.6,35.5,vegan,breakfast,West India,afternoon
+Rasam 24,405.6,27.9,30.7,30.3,vegan,snack,East India,night
+Mutton Curry 41,367.9,10.1,26.2,15.0,eggetarian,snack,East India,night
+Palak Paneer 29,522.8,2.6,37.0,78.7,vegetarian,breakfast,South India,night
+Kheer 27,360.8,2.1,8.5,64.0,eggetarian,breakfast,South India,night
+Fish Curry 83,300.2,21.8,21.5,48.1,non-vegetarian,dinner,East India,morning
+Hakka Noodles 67,301.4,19.1,20.6,57.7,vegetarian,lunch,Pan India,evening
+Dosa 81,558.4,28.9,29.9,59.3,vegan,snack,West India,evening
+Modak 83,169.1,2.7,39.0,74.0,vegan,breakfast,West India,evening
+Sambar 90,140.3,17.9,24.4,67.9,vegan,dessert,South India,morning
+Curd Rice 38,538.2,28.6,15.4,23.4,eggetarian,lunch,South India,morning
+Hakka Noodles 44,284.0,6.7,25.1,34.7,vegan,lunch,West India,night
+Dhokla 13,414.5,28.1,28.4,63.6,vegan,breakfast,West India,afternoon
+Dal Tadka 53,311.3,14.9,9.8,10.8,vegan,dinner,East India,evening
+Modak 97,111.3,25.8,36.6,53.7,vegan,dessert,South India,afternoon
+Shrikhand 13,116.3,24.1,38.1,30.6,vegetarian,dessert,Pan India,morning
+Butter Naan 33,471.1,18.8,33.3,41.9,non-vegetarian,snack,Pan India,afternoon
+Tandoori Chicken 88,525.1,26.6,38.6,50.0,vegetarian,dessert,South India,morning
+Roti 47,242.3,24.2,19.4,76.7,vegetarian,dinner,West India,evening
+Modak 57,396.0,23.3,21.9,78.3,vegan,lunch,North India,night
+Kofta Curry 5,305.6,19.1,15.6,48.4,vegetarian,breakfast,North India,morning
+Pakora 41,524.2,3.8,23.2,11.1,non-vegetarian,snack,East India,afternoon
+Aloo Paratha 90,353.4,22.9,10.1,64.9,vegetarian,snack,West India,evening
+Fish Curry 94,378.8,25.0,18.3,63.4,vegan,lunch,South India,afternoon
+Curd Rice 87,269.1,24.9,33.1,52.1,eggetarian,dessert,East India,night
+Paneer Butter Masala 12,480.3,18.0,22.8,16.9,eggetarian,snack,West India,evening
+Shrikhand 32,420.0,21.4,23.2,29.1,eggetarian,snack,North India,afternoon
+Lemon Rice 23,485.5,21.3,37.7,75.5,eggetarian,snack,West India,night
+Rajma Chawal 67,299.6,18.6,39.1,42.0,vegan,breakfast,North India,morning
+Gajar Halwa 55,448.9,14.6,13.5,32.7,non-vegetarian,snack,Pan India,afternoon
+Dosa 76,532.9,26.5,3.2,14.8,eggetarian,dessert,West India,night
+Shrikhand 81,411.5,20.4,21.0,61.1,vegetarian,dessert,Pan India,night
+Upma 14,250.8,25.5,22.4,32.2,vegetarian,snack,East India,morning
+Paneer Butter Masala 88,467.5,3.0,13.7,23.3,vegetarian,dessert,Pan India,afternoon
+Poha 51,356.5,15.3,11.3,58.7,vegetarian,dinner,West India,evening
+Roti 39,382.7,29.0,4.7,22.9,non-vegetarian,snack,North India,afternoon
+Tamarind Rice 11,117.4,13.9,21.8,72.1,vegetarian,snack,East India,night
+Fish Curry 30,229.2,29.5,24.3,77.9,vegetarian,dinner,East India,evening
+Masala Chai 9,567.7,21.9,15.6,13.7,non-vegetarian,lunch,West India,night
+Samosa 34,588.9,6.3,32.7,20.9,eggetarian,dinner,East India,morning
+Pakora 4,472.5,7.9,1.2,73.3,eggetarian,lunch,South India,morning
+Poha 69,519.3,21.1,26.8,48.1,eggetarian,snack,East India,evening
+Hakka Noodles 59,443.7,24.3,32.0,77.9,vegetarian,dessert,North India,evening
+Lemon Rice 87,447.2,25.5,15.5,27.6,vegetarian,dessert,West India,morning
+Roti 6,461.8,8.7,39.8,59.8,non-vegetarian,breakfast,North India,night
+Fish Curry 63,583.0,26.8,17.1,33.8,vegan,lunch,South India,morning
+Samosa 19,395.1,3.3,21.4,31.3,eggetarian,lunch,West India,afternoon
+Dhokla 19,258.7,24.8,26.7,19.9,vegan,dinner,West India,night
+Mutton Curry 55,391.9,2.5,11.6,42.1,vegan,dinner,Pan India,night
+Besan Chilla 41,217.4,19.4,22.6,52.6,eggetarian,dessert,South India,night
+Vegetable Pulao 62,354.3,23.1,25.6,45.6,vegetarian,breakfast,Pan India,morning
+Samosa 51,560.4,21.2,38.3,43.3,vegetarian,dessert,North India,afternoon
+Chicken Biryani 71,475.3,5.8,11.5,65.3,eggetarian,dinner,East India,afternoon
+Pav Bhaji 66,345.9,4.7,15.8,52.9,vegetarian,snack,North India,evening
+Dosa 38,138.2,12.4,18.5,11.8,vegetarian,lunch,West India,morning
+Kadhi 54,153.9,19.2,39.3,25.7,eggetarian,lunch,West India,afternoon
+Masala Chai 8,546.5,19.6,13.8,24.5,non-vegetarian,dinner,South India,night
+Curd Rice 64,119.9,28.1,26.3,19.4,eggetarian,dinner,South India,night
+Dhokla 66,450.3,21.3,20.4,26.0,eggetarian,snack,East India,evening
+Kheer 62,123.2,29.8,25.1,65.0,vegetarian,dessert,South India,evening
+Kadhi 62,312.4,3.1,28.8,72.5,vegetarian,lunch,East India,afternoon
+Chicken Biryani 37,168.4,21.3,39.1,43.8,non-vegetarian,snack,Pan India,afternoon
+Sambar 72,548.1,19.6,27.1,29.7,non-vegetarian,snack,North India,afternoon
+Egg Curry 4,443.7,6.6,30.4,21.2,non-vegetarian,breakfast,South India,night
+Lassi 86,443.3,23.8,33.9,11.2,non-vegetarian,snack,East India,night
+Rasam 71,197.0,28.3,4.4,65.9,vegetarian,lunch,North India,afternoon
+Kadhi 83,158.3,26.9,27.6,31.9,eggetarian,lunch,South India,evening
+Shrikhand 85,197.1,16.7,20.6,71.7,vegan,lunch,East India,morning
+Vada Pav 59,439.8,25.4,26.9,15.3,vegan,dinner,West India,morning
+Kheer 22,539.0,27.5,19.9,18.2,eggetarian,dinner,North India,afternoon
+Gulab Jamun 80,573.1,28.7,38.8,13.5,eggetarian,lunch,South India,afternoon
+Kheer 62,195.1,22.8,4.7,62.0,vegetarian,lunch,East India,morning
+Samosa 50,462.1,6.6,39.7,49.0,non-vegetarian,breakfast,South India,afternoon
+Tandoori Chicken 19,385.9,26.4,8.0,44.4,eggetarian,lunch,North India,morning
+Kheer 82,271.7,5.9,39.8,63.8,vegetarian,dessert,West India,night
+Hakka Noodles 29,545.8,27.9,8.5,69.4,non-vegetarian,breakfast,North India,night
+Chole Bhature 61,282.6,14.8,26.8,43.5,eggetarian,breakfast,South India,night
+Samosa 11,357.2,16.1,5.7,12.9,eggetarian,dessert,Pan India,night
+Tandoori Chicken 3,221.5,2.4,9.4,23.5,vegan,dessert,South India,night
+Sambar 99,465.0,27.4,17.3,72.3,vegan,breakfast,South India,evening
+Bhindi Masala 39,176.0,13.4,39.8,67.3,vegetarian,lunch,Pan India,afternoon
+Veg Momos 8,524.4,5.6,32.9,27.8,non-vegetarian,lunch,North India,evening
+Hakka Noodles 25,172.8,5.8,35.6,35.7,vegan,breakfast,East India,afternoon
+Bhindi Masala 37,115.4,11.3,12.1,59.6,eggetarian,snack,South India,night
+Baingan Bharta 93,597.7,27.6,17.3,13.4,eggetarian,snack,Pan India,morning
+Rasam 9,110.7,6.4,35.0,29.3,vegan,dinner,Pan India,afternoon
+Malai Kofta 90,445.1,27.2,12.3,62.2,vegetarian,dessert,East India,afternoon
+Lemon Rice 38,217.8,13.7,34.9,56.0,vegan,snack,East India,afternoon
+Palak Paneer 17,380.9,16.1,22.4,50.4,non-vegetarian,breakfast,South India,night
+Curd Rice 27,587.7,24.0,23.4,55.0,vegetarian,lunch,Pan India,evening
+Masala Chai 46,367.2,17.4,8.7,44.9,eggetarian,breakfast,East India,night
+Palak Paneer 25,172.8,27.3,10.9,59.8,vegan,dinner,South India,afternoon
+Gajar Halwa 50,519.0,13.2,20.1,37.2,non-vegetarian,lunch,South India,evening
+Gajar Halwa 34,382.0,27.4,39.6,34.2,vegetarian,dinner,East India,afternoon
+Lemon Rice 98,366.6,25.2,3.3,33.6,vegetarian,snack,Pan India,morning
+Shrikhand 55,593.6,21.1,8.3,24.9,non-vegetarian,breakfast,South India,morning
+Kofta Curry 79,429.4,26.1,14.3,48.3,vegan,dessert,South India,morning
+Curd Rice 23,158.3,22.6,22.0,32.2,non-vegetarian,snack,Pan India,afternoon
+Chicken Biryani 74,332.4,8.8,16.0,52.7,vegan,snack,Pan India,night
+Khichdi 54,447.8,26.8,4.6,48.7,non-vegetarian,breakfast,West India,morning
+Chicken 65 64,564.9,15.9,33.8,72.1,vegan,dinner,West India,night
+Rajma Chawal 14,117.0,9.1,32.5,46.8,vegan,lunch,East India,night
+Dosa 64,179.1,16.5,4.5,20.1,non-vegetarian,snack,West India,afternoon
+Mutton Curry 5,201.8,4.8,24.7,11.6,vegan,dessert,South India,afternoon
+Chole Bhature 68,194.8,6.6,24.6,46.3,vegetarian,dinner,South India,afternoon
+Kofta Curry 1,502.9,27.8,4.7,21.6,eggetarian,breakfast,North India,morning
+Rajma Chawal 8,526.5,29.1,6.9,14.3,eggetarian,dinner,North India,night
+Hakka Noodles 75,311.5,17.5,13.1,17.5,vegetarian,dessert,North India,evening
+Bhindi Masala 31,220.9,2.7,28.4,13.6,vegan,dessert,East India,night
+Gajar Halwa 91,386.5,4.1,22.0,48.7,vegetarian,snack,Pan India,afternoon
+Fish Curry 23,314.3,27.2,13.1,36.2,non-vegetarian,dessert,North India,evening
+Kofta Curry 72,368.8,27.1,38.7,57.0,vegan,dinner,Pan India,night
+Gajar Halwa 7,173.5,16.2,1.8,12.6,non-vegetarian,dinner,Pan India,afternoon
+Tamarind Rice 72,577.5,13.8,35.8,31.3,vegan,snack,North India,afternoon
+Thepla 26,260.8,26.7,2.3,63.1,vegetarian,snack,South India,morning
+Vegetable Pulao 52,531.8,28.4,33.8,16.9,eggetarian,snack,West India,night
+Pav Bhaji 93,342.4,27.5,21.5,28.1,vegetarian,dinner,East India,morning
+Bhindi Masala 14,420.4,10.4,20.3,70.4,vegan,lunch,West India,afternoon
+Bhindi Masala 57,519.0,21.6,14.0,26.2,eggetarian,lunch,North India,evening
+Chicken 65 62,433.3,15.1,8.4,63.9,eggetarian,dessert,Pan India,night
+Thepla 27,248.1,15.4,31.9,52.0,vegetarian,dinner,Pan India,morning
+Lassi 2,313.7,21.3,19.7,69.8,vegetarian,snack,West India,morning
+Hakka Noodles 61,433.2,10.4,24.7,42.7,vegetarian,dinner,East India,afternoon
+Chicken Biryani 25,307.0,11.6,2.4,10.0,non-vegetarian,snack,West India,afternoon
+Jalebi 27,580.0,19.2,28.8,32.2,eggetarian,lunch,North India,morning
+Pav Bhaji 50,506.3,4.8,11.3,36.5,vegan,snack,East India,night
+Besan Chilla 96,111.0,25.8,23.7,16.4,non-vegetarian,snack,East India,morning
+Poha 40,258.8,2.3,28.3,54.0,eggetarian,snack,North India,afternoon
+Dosa 60,223.0,11.2,8.1,28.5,vegan,snack,Pan India,evening
+Poha 90,592.7,6.4,32.9,70.8,vegetarian,snack,East India,afternoon
+Kadhi 24,350.2,21.7,2.5,11.5,eggetarian,snack,East India,evening
+Gulab Jamun 94,472.6,11.3,39.5,52.3,vegan,lunch,Pan India,night
+Roti 6,224.1,14.6,5.9,11.9,eggetarian,snack,West India,evening
+Vegetable Pulao 22,276.1,12.5,20.1,27.7,eggetarian,snack,West India,morning
+Roti 78,158.9,17.2,23.8,74.0,eggetarian,lunch,South India,night
+Chicken Biryani 30,512.8,9.1,13.5,36.6,vegan,breakfast,Pan India,night
+Paneer Butter Masala 22,442.7,7.1,17.6,54.8,eggetarian,snack,South India,evening
+Veg Momos 2,334.1,12.2,36.8,61.4,vegetarian,snack,Pan India,night
+Curd Rice 22,572.7,6.9,15.8,42.4,vegan,lunch,Pan India,afternoon
+Paneer Tikka 56,179.8,11.7,11.9,48.7,non-vegetarian,snack,West India,afternoon
+Paneer Tikka 79,235.8,15.0,25.2,57.8,vegan,lunch,North India,afternoon
+Egg Curry 78,156.8,25.4,8.5,38.0,vegetarian,snack,East India,afternoon
+Jalebi 61,578.9,12.0,16.3,42.4,vegetarian,dinner,Pan India,morning
+Rasam 21,416.3,6.7,14.4,25.1,vegan,dinner,South India,night
+Malai Kofta 12,428.1,29.7,20.7,22.2,vegetarian,breakfast,West India,evening
+Kofta Curry 68,118.9,20.8,6.6,22.4,vegan,dinner,Pan India,afternoon
+Tamarind Rice 51,427.4,28.9,3.6,73.4,vegetarian,dessert,East India,morning
+Baingan Bharta 77,598.5,23.3,26.1,53.1,vegan,snack,South India,afternoon
+Dhokla 13,495.7,9.9,38.9,29.3,vegan,snack,South India,morning
+Roti 21,392.3,17.2,30.9,20.1,vegetarian,breakfast,Pan India,morning
+Kofta Curry 68,473.8,9.8,6.0,64.1,eggetarian,dessert,East India,night
+Aloo Paratha 80,290.5,24.6,5.7,57.5,vegetarian,dinner,West India,night
+Upma 13,142.5,4.3,5.4,41.4,vegetarian,lunch,East India,afternoon
+Kheer 32,572.6,2.6,38.4,56.2,vegan,dessert,South India,afternoon
+Chole Bhature 2,517.3,24.8,37.3,44.7,eggetarian,dinner,South India,evening
+Aloo Tikki 69,360.7,27.9,1.0,28.9,vegetarian,breakfast,East India,afternoon
+Roti 66,550.0,12.7,3.6,12.6,eggetarian,lunch,Pan India,evening
+Gajar Halwa 17,479.5,6.3,22.9,74.7,vegetarian,breakfast,Pan India,afternoon
+Paneer Tikka 93,309.4,15.3,40.0,66.5,eggetarian,lunch,Pan India,morning
+Malai Kofta 85,477.2,27.6,13.0,28.0,vegetarian,breakfast,West India,afternoon
+Idli 64,217.6,19.0,33.3,30.4,eggetarian,lunch,West India,afternoon
+Vegetable Pulao 59,230.1,11.0,38.4,35.2,eggetarian,lunch,North India,afternoon
+Aloo Paratha 44,127.8,22.6,10.8,24.9,eggetarian,dessert,East India,evening
+Thepla 52,399.0,2.3,17.8,26.8,vegan,lunch,South India,afternoon
+Fish Curry 36,577.7,23.7,22.2,69.9,non-vegetarian,breakfast,East India,morning
+Dosa 71,358.8,25.1,7.8,37.4,vegan,breakfast,Pan India,afternoon
+Baingan Bharta 73,221.1,14.7,34.2,54.6,vegan,breakfast,Pan India,morning
+Khichdi 2,379.2,29.1,6.9,36.0,eggetarian,breakfast,South India,afternoon
+Roti 29,443.3,12.3,27.6,76.5,eggetarian,dessert,East India,afternoon
+Aloo Tikki 35,174.2,11.8,38.7,11.6,non-vegetarian,breakfast,South India,evening
+Baingan Bharta 72,559.0,7.3,8.5,67.6,non-vegetarian,dinner,Pan India,evening
+Chole Bhature 90,198.5,18.7,36.2,79.7,eggetarian,dessert,West India,night
+Pakora 87,471.2,18.2,7.3,53.3,vegan,dessert,Pan India,evening
+Paneer Tikka 27,387.8,2.3,38.1,51.2,non-vegetarian,snack,Pan India,afternoon
+Khichdi 41,200.0,21.8,32.0,62.8,vegetarian,dessert,East India,morning
+Rajma Chawal 22,191.1,17.7,38.5,65.3,vegan,snack,East India,afternoon
+Kadhi 70,535.8,20.0,5.5,39.4,vegetarian,lunch,South India,evening
+Baingan Bharta 75,193.2,9.0,37.7,23.4,eggetarian,dessert,North India,afternoon
+Paneer Butter Masala 91,590.1,20.0,15.7,68.8,vegetarian,snack,North India,morning
+Veg Momos 77,573.9,4.3,4.0,73.3,eggetarian,snack,North India,evening
+Hakka Noodles 46,591.4,3.6,37.9,78.5,vegetarian,breakfast,East India,afternoon
+Modak 25,354.1,16.7,38.6,71.9,vegetarian,dinner,West India,night
+Mutton Curry 86,434.9,16.4,19.8,76.6,vegan,lunch,North India,evening
+Egg Curry 11,180.4,7.2,28.6,23.9,non-vegetarian,dessert,Pan India,night
+Misal Pav 47,522.2,23.7,19.2,12.0,non-vegetarian,lunch,South India,night
+Malai Kofta 44,384.3,28.1,15.3,55.8,vegan,breakfast,Pan India,evening
+Modak 38,544.9,16.6,29.6,48.5,eggetarian,dinner,South India,night
+Chicken Biryani 1,456.4,29.2,9.7,14.5,non-vegetarian,dinner,South India,afternoon
+Idli 3,557.6,24.5,30.2,28.6,eggetarian,snack,South India,afternoon
+Kofta Curry 83,203.3,6.4,19.5,39.4,vegan,dessert,West India,afternoon
+Samosa 68,343.5,2.2,25.0,58.5,vegetarian,breakfast,Pan India,morning
+Sambar 89,267.2,7.0,4.0,57.7,eggetarian,dinner,East India,afternoon
+Mutton Curry 14,221.7,24.5,30.7,62.0,non-vegetarian,dessert,South India,afternoon
+Chicken 65 66,322.0,5.6,20.4,42.0,eggetarian,dinner,North India,morning
+Dal Tadka 54,452.9,14.1,34.6,58.8,eggetarian,lunch,North India,evening
+Modak 55,509.4,9.5,24.4,54.5,vegan,snack,Pan India,morning
+Aloo Tikki 71,389.8,16.1,35.2,22.3,eggetarian,dinner,West India,night
+Tamarind Rice 56,396.0,26.9,24.9,68.2,eggetarian,breakfast,East India,afternoon
+Pakora 24,567.4,27.7,29.8,46.8,vegan,breakfast,South India,evening
+Pav Bhaji 63,447.9,20.2,19.0,19.7,vegan,lunch,South India,morning
+Paneer Tikka 58,219.0,21.1,8.7,25.6,eggetarian,snack,North India,evening
+Veg Momos 94,520.8,28.3,10.4,39.8,eggetarian,dessert,Pan India,night
+Baingan Bharta 16,325.7,15.0,3.4,46.0,non-vegetarian,dinner,North India,night
+Mutton Curry 5,255.8,15.1,19.6,36.5,non-vegetarian,lunch,North India,evening
+Butter Naan 91,500.9,25.0,26.1,48.4,non-vegetarian,dinner,West India,afternoon
+Vegetable Pulao 41,249.3,8.4,15.9,73.8,vegan,lunch,West India,evening
+Roti 67,444.0,17.8,10.2,77.0,vegetarian,dinner,East India,afternoon
+Vada Pav 34,204.8,27.1,6.5,21.2,vegan,lunch,West India,morning
+Lemon Rice 13,487.4,10.8,27.6,44.2,non-vegetarian,breakfast,North India,afternoon
+Poha 70,596.6,26.4,26.5,13.7,vegan,dinner,East India,evening
+Paneer Tikka 4,126.8,8.5,13.9,24.1,vegan,dessert,West India,night
+Poha 54,141.9,6.0,31.5,56.3,vegan,dinner,North India,night
+Roti 1,338.8,15.7,22.3,32.4,vegan,dinner,East India,night
+Lemon Rice 35,512.6,18.6,17.7,52.8,vegetarian,dinner,East India,evening
+Curd Rice 69,538.8,18.4,37.4,60.2,eggetarian,dinner,South India,afternoon
+Upma 86,466.2,23.9,22.2,70.4,vegetarian,lunch,South India,evening
+Kofta Curry 78,426.3,20.7,5.5,75.6,non-vegetarian,dinner,North India,morning
+Butter Naan 19,390.0,29.6,15.2,18.3,vegetarian,dessert,Pan India,morning
+Dal Tadka 2,561.4,9.3,26.4,77.9,vegan,dinner,South India,afternoon
+Gajar Halwa 44,523.9,18.9,34.3,35.4,vegan,dessert,South India,morning
+Upma 52,512.1,24.7,14.0,33.2,vegetarian,dinner,East India,evening
+Gulab Jamun 90,369.3,29.0,39.2,77.8,non-vegetarian,dinner,Pan India,night
+Kadhi 27,115.7,8.9,2.9,47.6,vegetarian,snack,North India,morning
+Besan Chilla 97,587.2,3.1,28.2,36.1,vegan,lunch,North India,afternoon
+Shrikhand 5,235.0,16.1,32.1,39.3,vegan,lunch,North India,evening
+Tamarind Rice 32,314.0,2.2,34.3,46.6,eggetarian,breakfast,North India,morning
+Masala Chai 25,194.4,2.9,12.4,59.9,vegetarian,breakfast,Pan India,morning
+Aloo Tikki 32,137.8,11.2,12.8,64.8,non-vegetarian,breakfast,South India,morning
+Aloo Paratha 56,359.8,5.2,25.6,21.3,eggetarian,dessert,West India,morning
+Chicken Biryani 48,332.1,14.1,33.4,31.5,vegetarian,lunch,South India,afternoon
+Chicken 65 28,529.4,14.5,39.9,19.0,vegan,lunch,North India,evening
+Chicken Biryani 56,366.3,16.4,18.6,56.3,eggetarian,breakfast,Pan India,morning
+Chole Bhature 54,426.8,23.9,9.4,19.7,vegan,breakfast,Pan India,morning
+Dosa 11,312.0,12.9,23.7,34.8,eggetarian,breakfast,West India,evening
+Baingan Bharta 65,449.9,17.3,22.7,33.7,vegetarian,lunch,West India,morning
+Egg Curry 96,359.6,17.6,17.6,13.1,vegan,dessert,Pan India,afternoon
+Chole Bhature 43,562.0,11.6,35.6,71.8,vegetarian,breakfast,North India,night
+Kadhi 59,481.1,26.6,26.7,62.7,vegetarian,lunch,North India,afternoon
+Paneer Butter Masala 68,335.0,11.5,24.3,38.0,vegetarian,dessert,South India,morning
+Aloo Tikki 7,382.9,15.7,29.8,43.0,vegan,snack,East India,afternoon
+Lassi 28,131.7,19.0,26.3,51.8,vegan,dinner,Pan India,evening
+Malai Kofta 73,297.7,7.6,38.2,76.2,vegetarian,lunch,Pan India,morning
+Samosa 2,437.0,18.7,23.4,79.5,vegan,breakfast,South India,night
+Paneer Butter Masala 85,271.7,9.8,34.6,16.2,vegan,breakfast,West India,afternoon
+Aloo Tikki 97,287.6,15.1,22.6,69.6,eggetarian,lunch,West India,evening
+Modak 74,167.1,12.4,21.8,32.7,non-vegetarian,lunch,South India,afternoon
+Dosa 5,438.2,6.2,27.7,73.3,vegetarian,breakfast,South India,morning
+Rajma Chawal 54,290.7,4.8,19.6,32.0,vegan,dessert,West India,morning
+Aloo Paratha 87,195.0,13.5,31.8,26.1,non-vegetarian,breakfast,North India,evening
+Khichdi 24,383.9,7.6,20.5,45.5,eggetarian,dessert,West India,night
+Vegetable Pulao 34,129.0,11.0,1.9,63.0,eggetarian,breakfast,North India,morning
+Hakka Noodles 62,312.8,15.9,36.3,68.1,eggetarian,dinner,Pan India,morning
+Palak Paneer 99,140.0,7.3,21.9,27.7,non-vegetarian,lunch,South India,morning
+Sambar 64,369.4,29.9,39.6,32.2,eggetarian,snack,Pan India,afternoon
+Chicken 65 24,117.3,8.6,9.1,43.7,vegan,dessert,South India,afternoon
+Tamarind Rice 66,355.8,5.4,29.3,13.3,vegan,dessert,South India,afternoon
+Gajar Halwa 5,375.5,27.3,23.0,47.0,vegan,dinner,Pan India,morning
+Veg Momos 73,557.8,9.5,33.9,38.0,vegetarian,dinner,North India,morning
+Chicken Biryani 71,156.3,14.6,21.7,54.1,eggetarian,breakfast,North India,morning
+Masala Chai 70,451.0,9.5,22.5,30.7,vegan,dinner,South India,morning
+Fish Curry 39,124.5,8.7,40.0,70.9,non-vegetarian,lunch,West India,night
+Malai Kofta 82,173.6,9.1,20.6,62.8,vegetarian,breakfast,South India,afternoon
+Kheer 15,555.7,9.7,11.0,11.0,eggetarian,dinner,East India,night
+Chicken Biryani 92,301.2,23.0,35.4,55.8,vegan,dinner,West India,morning
+Baingan Bharta 46,218.5,12.7,15.7,77.4,vegetarian,dessert,West India,morning
+Khichdi 2,559.6,2.7,16.7,19.5,non-vegetarian,dessert,East India,evening
+Vegetable Pulao 51,367.3,26.2,35.5,37.6,vegetarian,lunch,South India,morning
+Lemon Rice 98,184.3,25.2,30.2,12.6,vegetarian,dinner,East India,morning
+Tamarind Rice 5,301.3,22.6,33.7,16.4,vegetarian,dinner,South India,afternoon
+Lassi 57,598.9,23.0,29.1,56.6,vegetarian,dessert,West India,afternoon
+Rajma Chawal 51,393.2,18.3,10.2,40.5,non-vegetarian,dinner,Pan India,evening
+Dal Tadka 6,421.5,24.1,16.4,69.6,vegetarian,snack,East India,afternoon
+Kheer 24,215.2,10.8,33.4,30.8,vegetarian,lunch,East India,night
+Egg Curry 68,260.3,4.8,16.5,54.5,vegan,dinner,East India,night
+Shrikhand 5,213.8,8.9,23.7,75.3,eggetarian,breakfast,Pan India,night
+Fish Curry 87,365.6,3.3,35.1,32.0,non-vegetarian,dinner,East India,afternoon
+Tamarind Rice 89,592.4,7.2,33.3,18.5,non-vegetarian,lunch,Pan India,evening
+Lassi 96,439.6,27.8,9.9,74.3,vegan,dinner,Pan India,afternoon
+Tandoori Chicken 65,361.8,4.3,32.1,47.2,eggetarian,dinner,Pan India,afternoon
+Idli 2,414.8,2.9,29.6,42.1,vegetarian,dinner,South India,morning
+Fish Curry 91,536.8,21.1,18.8,41.9,vegetarian,dessert,South India,afternoon
+Paneer Tikka 83,561.1,12.9,33.1,39.2,eggetarian,lunch,South India,night
+Shrikhand 96,321.3,27.1,6.8,69.9,vegetarian,snack,Pan India,evening
+Vada Pav 31,408.2,15.1,21.7,65.9,vegan,snack,East India,afternoon
+Poha 60,169.9,19.3,36.8,32.0,vegetarian,snack,South India,evening
+Vada Pav 94,331.5,3.1,8.2,15.0,vegetarian,snack,North India,night
+Kadhi 23,187.6,26.5,39.0,25.6,non-vegetarian,dessert,Pan India,night
+Kofta Curry 96,321.6,3.2,30.9,25.2,vegetarian,snack,North India,morning
+Tandoori Chicken 98,564.1,7.4,37.2,73.4,eggetarian,lunch,North India,night
+Dhokla 94,247.0,10.4,36.2,19.1,vegetarian,snack,Pan India,evening
+Aloo Paratha 38,353.6,26.6,2.8,49.6,vegan,dessert,Pan India,morning
+Pav Bhaji 22,463.0,19.3,10.4,19.0,eggetarian,snack,East India,night
+Palak Paneer 72,273.6,29.1,26.1,46.5,vegetarian,dinner,West India,evening
+Idli 56,423.3,11.0,30.6,37.3,vegan,dinner,West India,evening
+Idli 16,324.9,23.2,10.9,25.4,non-vegetarian,dessert,North India,night
+Tandoori Chicken 53,280.8,15.2,9.2,32.6,vegetarian,breakfast,North India,night
+Hakka Noodles 86,184.4,16.7,10.2,30.6,eggetarian,snack,West India,night
+Paneer Butter Masala 52,484.4,13.9,15.0,53.7,vegetarian,lunch,West India,morning
+Butter Naan 18,396.8,21.7,5.7,58.9,eggetarian,dessert,West India,evening
+Dosa 35,476.4,21.3,20.5,48.6,vegan,breakfast,West India,morning
+Baingan Bharta 25,220.7,26.3,11.2,63.7,vegan,breakfast,West India,afternoon
+Mutton Curry 94,332.5,16.8,27.5,22.2,vegan,dinner,North India,night
+Curd Rice 10,333.8,10.7,3.0,76.8,non-vegetarian,breakfast,North India,afternoon
+Masala Chai 32,271.4,29.8,35.0,78.3,non-vegetarian,dinner,North India,morning
+Aloo Paratha 98,266.9,27.3,29.2,35.8,eggetarian,snack,East India,morning
+Egg Curry 4,180.8,14.7,31.1,12.8,eggetarian,dinner,South India,morning
+Modak 43,556.7,5.5,35.5,58.8,non-vegetarian,dessert,South India,morning
+Butter Naan 36,316.9,28.6,5.2,77.0,vegan,breakfast,East India,afternoon
+Dhokla 60,403.8,29.0,27.7,70.6,vegetarian,breakfast,South India,night
+Kofta Curry 57,315.2,7.1,24.7,58.7,non-vegetarian,dessert,East India,afternoon
+Pav Bhaji 88,114.0,23.6,36.2,32.7,non-vegetarian,dinner,Pan India,evening
+Sambar 49,347.7,3.1,36.5,49.0,eggetarian,dinner,East India,night
+Idli 91,514.4,4.0,38.5,64.3,vegan,lunch,Pan India,afternoon
+Rajma Chawal 25,268.5,9.9,17.4,34.0,vegetarian,dessert,South India,night
+Palak Paneer 78,215.4,13.9,34.9,39.0,non-vegetarian,dessert,Pan India,morning
+Vada Pav 65,287.1,4.4,2.8,43.1,eggetarian,dessert,West India,morning
+Masala Chai 87,422.5,9.4,17.9,45.2,non-vegetarian,dinner,South India,morning
+Chole Bhature 33,134.2,23.2,3.4,31.2,vegetarian,lunch,South India,morning
+Veg Momos 51,470.5,22.2,14.8,60.2,vegetarian,dinner,East India,morning
+Lassi 61,354.4,25.6,36.6,53.4,vegan,breakfast,West India,afternoon
+Shrikhand 82,567.8,9.2,30.3,34.7,non-vegetarian,dessert,North India,afternoon
+Masala Chai 62,450.3,27.4,35.3,45.9,non-vegetarian,lunch,South India,afternoon
+Mutton Curry 6,367.2,18.5,38.9,50.5,non-vegetarian,dessert,West India,afternoon
+Aloo Tikki 4,217.9,13.6,12.1,28.2,vegan,dinner,Pan India,night
+Dal Tadka 60,262.8,23.6,32.0,43.7,eggetarian,lunch,South India,afternoon
+Rajma Chawal 14,279.7,10.0,29.7,16.1,non-vegetarian,breakfast,Pan India,evening
+Tandoori Chicken 90,437.0,5.5,10.9,13.0,vegan,dinner,North India,morning
+Egg Curry 3,481.4,4.0,19.7,56.0,eggetarian,lunch,South India,night
+Rajma Chawal 18,143.3,9.5,21.2,53.4,vegetarian,dessert,North India,afternoon
+Shrikhand 77,170.2,14.6,25.0,76.9,eggetarian,dinner,North India,evening
+Rasam 71,209.2,21.2,3.5,65.8,vegetarian,dessert,South India,evening
+Idli 42,489.2,10.1,21.7,48.7,eggetarian,dessert,West India,morning
+Masala Chai 7,507.9,6.4,5.0,30.8,vegan,lunch,South India,morning
+Chole Bhature 68,557.1,9.4,7.7,37.0,non-vegetarian,dinner,Pan India,night
+Dosa 97,301.6,18.9,27.5,31.4,vegan,snack,South India,evening
+Lassi 11,193.9,19.8,33.0,16.3,eggetarian,lunch,North India,afternoon
+Fish Curry 77,463.8,8.7,25.7,52.9,vegetarian,lunch,East India,afternoon
+Khichdi 18,574.4,12.4,27.0,17.4,vegan,lunch,North India,afternoon
+Gajar Halwa 46,582.7,28.0,39.7,15.5,vegan,dinner,South India,morning
+Malai Kofta 85,513.3,11.9,31.9,39.1,eggetarian,breakfast,North India,afternoon
+Lassi 42,416.4,15.1,18.9,70.2,vegetarian,lunch,Pan India,night
+Besan Chilla 44,565.6,25.2,11.0,22.0,non-vegetarian,lunch,East India,evening
+Tandoori Chicken 13,165.6,19.3,2.0,33.7,vegetarian,dessert,East India,afternoon
+Samosa 45,193.0,9.9,19.8,33.6,vegan,dinner,West India,afternoon
+Kheer 85,224.6,22.1,15.2,68.4,vegan,breakfast,Pan India,evening
+Butter Naan 38,203.6,14.6,2.3,11.9,non-vegetarian,lunch,East India,night
+Veg Momos 25,216.3,4.3,33.9,35.7,vegan,dessert,South India,afternoon
+Chicken Biryani 63,540.1,12.9,37.7,40.9,vegetarian,snack,South India,night
+Upma 58,348.9,15.8,38.6,34.0,non-vegetarian,dessert,East India,evening
+Chicken 65 59,430.4,25.1,33.4,48.7,vegan,dessert,South India,afternoon
+Roti 11,167.7,27.1,27.2,15.0,vegan,dessert,East India,afternoon
+Fish Curry 19,267.3,10.5,19.5,59.6,non-vegetarian,dessert,Pan India,morning
+Jalebi 47,594.3,13.5,39.7,59.1,vegan,dessert,Pan India,morning
+Fish Curry 61,597.5,6.0,3.3,33.7,eggetarian,lunch,Pan India,night
+Aloo Tikki 69,274.5,20.3,27.9,52.9,eggetarian,breakfast,North India,afternoon
+Vada Pav 67,126.8,21.6,34.6,27.2,eggetarian,lunch,West India,morning
+Veg Momos 28,136.5,30.0,40.0,22.1,vegetarian,dinner,Pan India,night
+Rasam 74,364.4,15.0,22.4,13.9,non-vegetarian,snack,North India,morning
+Modak 2,513.9,8.8,16.9,22.5,vegetarian,dessert,Pan India,afternoon
+Tandoori Chicken 63,341.4,20.7,16.4,27.5,vegetarian,dessert,East India,night
+Butter Naan 75,581.1,10.7,39.0,29.8,non-vegetarian,dinner,North India,evening
+Baingan Bharta 24,104.9,2.8,6.7,58.9,vegan,dessert,North India,afternoon
+Baingan Bharta 49,504.6,24.4,2.9,18.5,vegetarian,dinner,West India,evening
+Rajma Chawal 53,157.9,7.7,35.1,34.1,vegan,breakfast,North India,afternoon
+Veg Momos 80,385.0,18.5,13.3,55.4,eggetarian,dessert,West India,evening
+Modak 35,113.2,16.9,8.4,51.5,vegan,dessert,East India,evening
+Thepla 17,365.9,26.9,11.8,10.1,vegetarian,breakfast,West India,night
+Bhindi Masala 46,250.0,16.9,18.1,72.4,eggetarian,breakfast,South India,morning
+Tamarind Rice 65,589.2,16.1,7.9,70.2,non-vegetarian,lunch,South India,evening
+Gulab Jamun 99,107.4,26.2,7.0,30.4,eggetarian,lunch,East India,morning
+Lemon Rice 50,146.3,19.1,2.2,69.0,eggetarian,dinner,North India,morning
+Paneer Butter Masala 62,288.1,15.5,3.5,22.6,vegetarian,lunch,West India,evening
+Misal Pav 41,167.8,16.8,28.5,70.5,eggetarian,lunch,East India,afternoon
+Lemon Rice 75,578.1,23.6,17.4,19.1,non-vegetarian,dessert,West India,night
+Pakora 57,356.6,17.0,38.4,52.3,vegan,breakfast,Pan India,night
+Veg Momos 59,342.1,4.9,4.6,23.1,eggetarian,lunch,Pan India,evening
+Shrikhand 60,523.7,2.2,13.1,57.3,eggetarian,dinner,South India,evening
+Baingan Bharta 67,534.1,26.6,13.2,56.4,eggetarian,dinner,West India,morning
+Paneer Tikka 37,347.9,25.4,12.1,18.7,vegan,dinner,Pan India,afternoon
+Tamarind Rice 10,227.2,8.9,22.7,60.4,vegan,dinner,North India,night
+Roti 18,245.5,9.5,37.8,52.9,eggetarian,lunch,East India,evening
+Thepla 98,286.8,24.6,34.0,70.7,vegan,snack,West India,evening
+Shrikhand 42,180.6,25.8,17.6,28.4,vegan,dessert,East India,night
+Palak Paneer 48,440.8,9.7,11.4,49.9,non-vegetarian,lunch,Pan India,morning
+Chole Bhature 61,365.3,23.3,1.5,63.5,non-vegetarian,breakfast,North India,morning
+Shrikhand 86,370.2,15.3,9.9,61.4,vegetarian,snack,South India,morning
+Chicken Biryani 64,508.3,27.0,3.7,27.5,vegetarian,dinner,South India,morning
+Jalebi 13,298.6,4.6,26.9,42.0,vegan,dessert,East India,evening
+Modak 22,246.1,19.8,27.9,27.6,non-vegetarian,lunch,North India,evening
+Lemon Rice 23,203.3,13.7,29.7,63.0,non-vegetarian,dinner,West India,night
+Jalebi 51,292.0,19.9,20.3,70.4,vegetarian,dessert,Pan India,night
+Chicken Biryani 32,383.5,20.0,5.6,41.2,non-vegetarian,lunch,South India,morning
+Gulab Jamun 40,111.3,22.1,20.8,50.0,vegetarian,snack,South India,evening
+Roti 16,338.7,15.0,25.2,55.7,vegan,breakfast,Pan India,afternoon
+Chicken Biryani 46,377.2,4.1,31.6,60.3,non-vegetarian,dinner,South India,morning
+Upma 7,119.6,5.2,33.5,51.8,vegetarian,dessert,East India,morning
+Malai Kofta 14,362.6,13.3,27.3,78.4,non-vegetarian,breakfast,South India,evening
+Curd Rice 51,562.1,7.4,39.1,63.9,vegetarian,breakfast,South India,afternoon
+Rasam 96,248.3,12.0,12.3,13.4,vegetarian,breakfast,East India,afternoon
+Shrikhand 1,215.2,21.8,26.5,60.6,vegetarian,dinner,East India,night
+Chicken Biryani 31,363.4,23.9,17.2,10.6,vegetarian,dessert,North India,evening
+Malai Kofta 61,429.4,11.7,36.8,39.4,vegan,dinner,West India,morning
+Lassi 82,586.3,29.7,38.7,44.1,non-vegetarian,lunch,East India,morning
+Idli 69,138.0,28.8,24.1,40.0,vegan,dessert,East India,night
+Bhindi Masala 25,234.4,13.4,22.4,38.4,vegetarian,dinner,East India,morning
+Rajma Chawal 98,509.5,16.6,37.6,48.1,non-vegetarian,snack,South India,night
+Kheer 60,531.4,13.8,30.9,17.7,vegan,breakfast,South India,evening
+Rasam 72,463.9,5.8,31.9,59.8,eggetarian,dinner,East India,evening
+Kadhi 33,327.6,17.2,4.9,32.5,non-vegetarian,dessert,West India,night
+Roti 16,418.7,10.1,4.2,62.9,eggetarian,dessert,West India,night
+Butter Naan 71,121.9,26.2,7.4,63.0,eggetarian,lunch,South India,afternoon
+Kofta Curry 47,367.7,24.9,27.8,57.7,eggetarian,snack,West India,evening
+Dhokla 2,206.7,25.5,12.9,77.7,vegan,lunch,Pan India,evening
+Gulab Jamun 20,338.1,26.7,21.2,48.1,non-vegetarian,dessert,Pan India,morning
+Rasam 59,197.3,4.2,28.3,39.3,eggetarian,breakfast,Pan India,night
+Curd Rice 83,213.6,20.8,14.9,45.7,non-vegetarian,breakfast,Pan India,evening
+Modak 19,573.8,22.2,38.8,16.1,non-vegetarian,dessert,West India,evening
+Mutton Curry 7,199.2,2.8,36.5,39.8,non-vegetarian,dessert,Pan India,afternoon
+Masala Chai 94,386.9,18.5,15.3,45.2,vegetarian,dinner,East India,night
+Tamarind Rice 38,194.9,28.6,20.1,67.4,non-vegetarian,lunch,South India,afternoon
+Bhindi Masala 28,126.0,23.3,29.5,42.9,vegetarian,snack,Pan India,afternoon
+Vada Pav 52,575.3,18.2,26.6,21.1,vegan,dessert,West India,morning
+Chicken 65 41,118.5,19.9,31.7,34.8,vegan,lunch,North India,night
+Modak 83,384.9,22.0,15.7,73.7,vegetarian,dinner,East India,afternoon
+Vegetable Pulao 85,322.3,8.6,1.7,10.7,vegan,snack,East India,afternoon
+Lassi 87,370.9,26.4,10.4,41.0,vegetarian,lunch,Pan India,evening
+Curd Rice 93,528.6,16.8,25.4,21.7,eggetarian,lunch,South India,morning
+Paneer Tikka 42,273.0,19.9,11.3,75.4,vegetarian,breakfast,Pan India,evening
+Pav Bhaji 4,559.8,23.0,4.5,79.6,vegan,lunch,North India,morning
+Paneer Butter Masala 30,451.0,19.3,2.0,71.8,non-vegetarian,breakfast,Pan India,night
+Dal Tadka 80,336.1,17.8,18.0,26.5,vegan,breakfast,South India,morning
+Mutton Curry 72,420.1,10.1,5.9,70.9,eggetarian,dessert,West India,afternoon
+Paneer Butter Masala 67,228.1,11.0,32.8,26.2,eggetarian,breakfast,North India,evening
+Malai Kofta 43,593.6,16.8,33.7,79.8,vegan,dinner,East India,evening
+Besan Chilla 49,382.4,8.5,29.3,37.6,vegetarian,dinner,West India,night
+Mutton Curry 78,386.0,23.3,14.6,56.2,vegetarian,snack,Pan India,afternoon
+Veg Momos 86,405.3,20.1,24.8,65.0,vegan,dinner,West India,evening
+Malai Kofta 65,334.2,26.4,2.0,67.4,vegan,lunch,Pan India,morning
+Paneer Tikka 56,564.5,18.8,24.5,16.6,eggetarian,dinner,East India,afternoon
+Upma 45,589.2,25.5,17.3,56.2,vegetarian,lunch,South India,night
+Gulab Jamun 2,450.8,24.8,2.9,19.7,non-vegetarian,dessert,West India,evening
+Aloo Tikki 3,549.1,24.8,36.9,11.2,vegetarian,dessert,Pan India,morning
+Bhindi Masala 67,201.0,23.0,2.7,74.5,vegan,breakfast,East India,night
+Chole Bhature 31,198.1,3.5,34.1,71.0,vegetarian,snack,North India,afternoon
+Shrikhand 88,396.0,7.6,13.2,71.9,vegetarian,snack,South India,morning
+Dosa 85,481.0,28.6,15.5,73.1,eggetarian,dinner,North India,morning
+Veg Momos 45,238.6,25.0,20.2,75.9,vegan,lunch,West India,evening
+Vegetable Pulao 96,120.4,12.2,7.8,42.8,eggetarian,dessert,Pan India,night
+Gulab Jamun 45,345.4,24.6,29.1,69.7,vegetarian,lunch,West India,night
+Baingan Bharta 4,525.0,3.7,23.6,71.6,vegan,dessert,North India,afternoon
+Curd Rice 64,539.9,21.5,28.2,20.1,eggetarian,dinner,North India,evening
+Baingan Bharta 61,598.6,9.6,2.1,59.1,eggetarian,dessert,East India,morning
+Gajar Halwa 38,594.9,28.5,5.5,54.7,vegetarian,snack,North India,evening
+Curd Rice 74,244.8,22.7,29.5,76.8,eggetarian,dessert,East India,night
+Gajar Halwa 69,119.0,18.1,11.0,41.6,non-vegetarian,lunch,South India,morning
+Kheer 94,424.8,22.2,14.1,20.0,vegan,snack,South India,evening
+Kofta Curry 30,228.0,15.2,39.1,79.1,eggetarian,dinner,West India,night
+Paneer Butter Masala 23,533.1,10.0,16.4,35.6,vegetarian,dinner,East India,night
+Lassi 78,517.6,9.8,38.4,74.4,eggetarian,dessert,North India,morning
+Egg Curry 42,397.6,23.1,38.6,76.0,eggetarian,dessert,West India,night
+Gajar Halwa 19,307.1,2.8,31.6,65.3,eggetarian,lunch,Pan India,night
+Poha 56,529.0,10.4,8.8,66.2,non-vegetarian,lunch,Pan India,afternoon
+Shrikhand 59,413.4,16.3,29.4,63.8,vegetarian,dinner,East India,evening
+Lassi 49,320.8,29.5,2.3,25.4,non-vegetarian,lunch,East India,night
+Chicken Biryani 55,563.1,7.9,24.8,25.5,vegetarian,breakfast,West India,morning
+Dosa 31,357.1,5.4,17.9,32.1,vegan,dinner,South India,morning
+Palak Paneer 43,159.8,24.6,21.2,57.8,vegetarian,dinner,East India,morning
+Mutton Curry 19,349.7,8.6,28.1,52.5,eggetarian,breakfast,East India,morning
+Roti 52,330.2,3.6,2.6,61.3,vegetarian,dinner,Pan India,evening
+Dhokla 66,190.6,13.3,26.1,73.7,eggetarian,dinner,West India,afternoon
+Modak 85,104.8,12.1,17.5,61.6,vegan,lunch,North India,evening
+Shrikhand 23,441.6,20.5,22.6,65.8,vegan,dessert,West India,night
+Veg Momos 96,313.5,20.2,10.8,66.4,vegetarian,lunch,South India,night
+Besan Chilla 47,174.7,25.1,28.3,65.9,vegetarian,dinner,West India,afternoon
+Misal Pav 8,146.1,11.2,8.2,49.7,eggetarian,lunch,South India,evening
+Chicken 65 24,232.6,16.8,12.5,56.1,vegan,breakfast,South India,afternoon
+Chole Bhature 62,374.0,19.0,9.1,26.3,vegan,dessert,West India,morning
+Fish Curry 83,323.7,25.6,26.9,37.4,eggetarian,breakfast,North India,afternoon
+Hakka Noodles 98,202.4,19.0,31.2,73.5,non-vegetarian,snack,South India,night
+Dhokla 1,384.3,18.9,1.1,69.8,vegetarian,lunch,South India,evening
+Kofta Curry 48,587.9,9.6,15.6,28.3,eggetarian,snack,South India,night
+Poha 40,425.9,15.9,38.6,47.8,vegan,snack,West India,morning
+Paneer Butter Masala 11,536.7,6.5,3.9,43.2,vegan,lunch,East India,afternoon
+Aloo Tikki 14,498.9,24.9,2.2,22.9,eggetarian,dinner,West India,afternoon
+Fish Curry 31,481.5,29.1,23.9,39.5,vegetarian,breakfast,South India,night
+Khichdi 35,173.0,27.6,37.5,27.0,vegan,dinner,Pan India,morning
+Gulab Jamun 70,358.9,18.1,8.8,69.3,non-vegetarian,dinner,West India,evening
+Roti 70,375.5,2.7,3.6,55.0,vegan,breakfast,Pan India,evening
+Misal Pav 46,342.5,15.6,14.2,60.9,eggetarian,lunch,Pan India,morning
+Khichdi 53,531.3,29.8,6.5,20.9,eggetarian,breakfast,South India,morning
+Vada Pav 8,577.9,5.0,25.4,38.6,non-vegetarian,dinner,South India,afternoon
+Butter Naan 61,362.5,4.5,2.6,58.0,vegan,dessert,South India,night
+Rajma Chawal 39,319.4,9.4,5.2,10.0,non-vegetarian,snack,East India,evening
+Gajar Halwa 28,160.9,24.0,1.8,31.5,vegetarian,lunch,East India,night
+Dhokla 7,527.6,9.6,22.7,75.5,vegan,dinner,South India,evening
+Idli 41,372.4,8.4,34.6,46.2,non-vegetarian,dessert,Pan India,morning
+Pakora 4,433.9,12.4,31.7,24.1,eggetarian,snack,North India,afternoon
+Dhokla 7,422.6,6.9,14.9,65.2,vegan,snack,South India,evening
+Dhokla 91,241.7,25.1,30.7,60.9,non-vegetarian,lunch,Pan India,evening
+Fish Curry 26,244.9,6.7,31.5,48.9,vegan,snack,South India,afternoon
+Fish Curry 73,519.6,12.9,11.6,14.3,eggetarian,lunch,North India,evening
+Aloo Paratha 52,505.0,6.7,39.3,24.8,vegetarian,dessert,North India,afternoon
+Gajar Halwa 47,416.7,14.7,5.7,19.9,vegan,breakfast,East India,morning
+Khichdi 30,295.5,7.2,27.4,68.9,non-vegetarian,lunch,East India,night
+Vegetable Pulao 66,533.4,25.5,35.3,29.0,non-vegetarian,lunch,East India,night
+Misal Pav 10,403.1,11.6,18.2,61.9,eggetarian,lunch,South India,morning
+Sambar 12,254.7,14.5,33.7,65.5,vegetarian,dinner,North India,morning
+Aloo Paratha 20,400.2,2.6,24.4,54.9,eggetarian,snack,East India,evening
+Kadhi 83,382.6,24.0,24.9,65.9,eggetarian,breakfast,North India,night
+Thepla 56,210.4,5.3,12.5,36.0,eggetarian,dinner,East India,afternoon
+Veg Momos 39,169.6,19.5,24.3,29.3,vegan,dinner,North India,afternoon

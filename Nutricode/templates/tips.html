@@ -1,0 +1,16 @@
+{% extends 'base.html' %}
+{% block content %}
+<div class="tips-container">
+    <h2>Personalized Tips for You</h2>
+
+    {% if tips %}
+        <ul class="tips-list">
+            {% for tip in tips %}
+                <li>💡 {{ tip }}</li>
+            {% endfor %}
+        </ul>
+    {% else %}
+        <p>No tips to show right now. Keep logging your meals and water to get personalized suggestions!</p>
+    {% endif %}
+</div>
+{% endblock %}

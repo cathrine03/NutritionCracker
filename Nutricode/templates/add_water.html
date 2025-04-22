@@ -1,0 +1,57 @@
+
+{% extends 'base.html' %}
+{% load static %}
+{% block title %}Log Water{% endblock %}
+
+{% block content %}
+<style>
+  body.add_water{
+    background-image: url("{% static 'images/water.jpg' %}");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    position: relative;
+  }
+
+  .overlay {
+    position: fixed;
+    top: 0; left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.4); /* Dim effect */
+    z-index: -1;
+  }
+
+  .form-card {
+    background: rgba(255, 255, 255, 0.92);
+    padding: 2rem;
+    border-radius: 12px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+    margin-top: 50px;
+  }
+</style>
+
+<body class="log-water-page">
+  <div class="overlay"></div>
+
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-md-6 form-card">
+        <h2 class="mb-4 text-center">💧 Log Your Water Intake 💧
+        </h2>
+        <form method="POST">
+          {% csrf_token %}
+          <div class="mb-3">
+            <label for="amount" class="form-label">Amount (in ml)</label>
+            <input type="number" step="50" name="amount" id="amount" class="form-control" required>
+          </div>
+          <div class="text-center">
+            <button type="submit" class="btn btn-primary px-4">Log Water</button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</body>
+{% endblock %}

@@ -1,0 +1,56 @@
+<!-- templates/home.html -->
+{% extends 'base.html' %}
+{% load static %}
+
+{% block title %}Welcome | Nutrition Cracker{% endblock %}
+
+{% block content %}
+<style>
+  .hero-section {
+    background: url("{% static 'images/healthy-bg.jpg' %}") no-repeat center center/cover;
+    height: 90vh;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border-radius: 10px;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .hero-overlay {
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 3rem;
+    border-radius: 10px;
+    width: 100%;
+    max-width: 700px;
+    margin: auto;
+  }
+
+  .hero-section h1 {
+    font-size: 3rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+  }
+
+  .hero-section p {
+    font-size: 1.2rem;
+    margin-bottom: 2rem;
+  }
+
+  .hero-section a.btn {
+    font-size: 1.1rem;
+    padding: 0.75rem 1.5rem;
+  }
+</style>
+
+<section class="hero-section">
+  <div class="hero-overlay">
+    <h1>Welcome to Nutrition Cracker 🥗</h1>
+    <p>Your smart companion for tracking meals, water, goals, and health tips.</p>
+    <a href="{% url 'register' %}" class="btn btn-success me-3">Get Started</a>
+    <a href="{% url 'login' %}" class="btn btn-outline-light">Login</a>
+  </div>
+</section>
+{% endblock %}

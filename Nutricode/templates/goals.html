@@ -1,0 +1,64 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block title %}Your Goals | Nutricode{% endblock %}
+
+{% block content %}
+<div class="container my-5 text-center">
+    <h2 class="mb-4">🎯 Your Daily Goals
+      <a href="{% url 'dashboard' %}" class="btn btn-sm btn-outline-secondary float-end">
+        🏠 Dashboard
+    </a>
+    
+    </h2>
+
+    <div id="goalsContainer" class="row justify-content-center g-4">
+        {% for label, progress, value, goal in goals %}
+            <div class="col-md-5">
+                <div class="goal-box p-4 shadow-sm rounded border position-relative">
+                    <h5>{{ label }}</h5>
+                    <div class="progress my-3" style="height: 20px;">
+                        <div class="progress-bar progress-bar-striped {% if progress >= 100 %}bg-success{% else %}bg-info{% endif %}" 
+                             role="progressbar"
+                             style="width: {{ progress|floatformat:0 }}%;">
+                            {{ progress|floatformat:1 }}%
+                        </div>
+                    </div>
+                    <p>{{ value }} / {{ goal }}</p>
+                </div>
+            </div>
+        {% endfor %}
+    </div>
+</div>
+
+
+<!-- Confetti Script -->
+<script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        const progressBars = document.querySelectorAll('.progress-bar');
+        progressBars.forEach((bar) => {
+            const percent = parseFloat(bar.style.width);
+            if (percent >= 100) {
+                setTimeout(() => {
+                    confetti({
+                        particleCount: 100,
+                        spread: 70,
+                        origin: { y: 0.6 }
+                    });
+                }, 400); // trigger after a short delay
+            }
+        });
+    });
+</script>
+
+<style>
+.goal-box {
+    background: #f9f9f9;
+    transition: transform 0.3s ease;
+}
+.goal-box:hover {
+    transform: scale(1.03);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+</style>
+{% endblock %}
