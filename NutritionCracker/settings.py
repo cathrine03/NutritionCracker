@@ -23,12 +23,13 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/5.2/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-*9%7w^$pl_8_#_n6lo(5hjxyxb6h31egamcatd570ph46d@^8h'
+SECRET_KEY = os.environ.get('SECRET_KEY', 'insecure-default-secret-key')
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['your-render-app-url.onrender.com']
+ALLOWED_HOSTS = ['*']
+
 
 # Application definition
 
@@ -40,7 +41,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'Nutricode',
-    'widget_tweaks',  # Your app name
+    'widget_tweaks',  
 ]
 
 MIDDLEWARE = [
@@ -77,15 +78,11 @@ WSGI_APPLICATION = 'NutritionCracker.wsgi.application'
 
 # Database
 # https://docs.djangoproject.com/en/5.2/ref/settings/#databases
-
 DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
-        'default': dj_database_url.config(default='YOUR_DATABASE_URL_HERE')
-}
-
-    }
+    'default': dj_database_url.config(
+        default=f"sqlite:///{BASE_DIR / 'db.sqlite3'}",
+        conn_max_age=600
+    )
 }
 
 
